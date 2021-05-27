@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Bacis-Of-C.c">
+    <ClCompile Include="declaration_method.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
