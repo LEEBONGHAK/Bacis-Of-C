@@ -22,9 +22,9 @@ int main() {
 	// %i : integar
 	printf("The answer is %i.\n", 7); // 7
 	printf("The answer is %i.\n", 1 + 2); // 3
-	prinf("% i + % i = %i\n", x, y, z); // 1 + 2 = 3
+	printf("% i + % i = %i\n", x, y, z); // 1 + 2 = 3
 	// \a : 경고 알람(소리) 출력
-	prinf("\a");
+	printf("\a");
 
 	// %d : decimal
 	printf("The answer is %d.\n", z); // 3

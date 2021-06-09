@@ -24,6 +24,7 @@
     <ProjectGuid>{14004951-3c04-4784-a325-a74db1b9436b}</ProjectGuid>
     <RootNamespace>BacisOfC</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>declaration_method</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
