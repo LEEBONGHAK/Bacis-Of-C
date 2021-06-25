@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "basic_method_of_printf", "v
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "make_function", "make_function\make_function.vcxproj", "{B8BFD43B-3465-49AA-A2D8-F0D1057833D0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "basic_usage_of_scanf_function", "basic_usage_of_scanf_function\basic_usage_of_scanf_function.vcxproj", "{2931D106-39A6-48F4-901D-6C284A25772B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{B8BFD43B-3465-49AA-A2D8-F0D1057833D0}.Release|x64.Build.0 = Release|x64
 		{B8BFD43B-3465-49AA-A2D8-F0D1057833D0}.Release|x86.ActiveCfg = Release|Win32
 		{B8BFD43B-3465-49AA-A2D8-F0D1057833D0}.Release|x86.Build.0 = Release|Win32
+		{2931D106-39A6-48F4-901D-6C284A25772B}.Debug|x64.ActiveCfg = Debug|x64
+		{2931D106-39A6-48F4-901D-6C284A25772B}.Debug|x64.Build.0 = Debug|x64
+		{2931D106-39A6-48F4-901D-6C284A25772B}.Debug|x86.ActiveCfg = Debug|Win32
+		{2931D106-39A6-48F4-901D-6C284A25772B}.Debug|x86.Build.0 = Debug|Win32
+		{2931D106-39A6-48F4-901D-6C284A25772B}.Release|x64.ActiveCfg = Release|x64
+		{2931D106-39A6-48F4-901D-6C284A25772B}.Release|x64.Build.0 = Release|x64
+		{2931D106-39A6-48F4-901D-6C284A25772B}.Release|x86.ActiveCfg = Release|Win32
+		{2931D106-39A6-48F4-901D-6C284A25772B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
