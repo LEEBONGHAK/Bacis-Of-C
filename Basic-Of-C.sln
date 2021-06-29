@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fixed-width_integers", "fix
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "character_type", "character_type\character_type.vcxproj", "{8CE3918C-EC4B-45D7-ABEA-83F85D32D84C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "limitation_of_floating-point", "limitation_of_floating-point\limitation_of_floating-point.vcxproj", "{D9196DEF-C30D-487E-8158-A810E0819F4F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{8CE3918C-EC4B-45D7-ABEA-83F85D32D84C}.Release|x64.Build.0 = Release|x64
 		{8CE3918C-EC4B-45D7-ABEA-83F85D32D84C}.Release|x86.ActiveCfg = Release|Win32
 		{8CE3918C-EC4B-45D7-ABEA-83F85D32D84C}.Release|x86.Build.0 = Release|Win32
+		{D9196DEF-C30D-487E-8158-A810E0819F4F}.Debug|x64.ActiveCfg = Debug|x64
+		{D9196DEF-C30D-487E-8158-A810E0819F4F}.Debug|x64.Build.0 = Debug|x64
+		{D9196DEF-C30D-487E-8158-A810E0819F4F}.Debug|x86.ActiveCfg = Debug|Win32
+		{D9196DEF-C30D-487E-8158-A810E0819F4F}.Debug|x86.Build.0 = Debug|Win32
+		{D9196DEF-C30D-487E-8158-A810E0819F4F}.Release|x64.ActiveCfg = Release|x64
+		{D9196DEF-C30D-487E-8158-A810E0819F4F}.Release|x64.Build.0 = Release|x64
+		{D9196DEF-C30D-487E-8158-A810E0819F4F}.Release|x86.ActiveCfg = Release|Win32
+		{D9196DEF-C30D-487E-8158-A810E0819F4F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
