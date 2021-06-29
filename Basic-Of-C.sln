@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "complex_types", "complex_ty
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "basic_input_and_output_of_character_list", "basic_input_and_output_of_character_list\basic_input_and_output_of_character_list.vcxproj", "{685934C3-12B9-40DA-B66D-D01AED5A1852}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sizeof", "sizeof\sizeof.vcxproj", "{687B9D72-CD27-44C2-822B-36F8AD8584AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +133,14 @@ Global
 		{685934C3-12B9-40DA-B66D-D01AED5A1852}.Release|x64.Build.0 = Release|x64
 		{685934C3-12B9-40DA-B66D-D01AED5A1852}.Release|x86.ActiveCfg = Release|Win32
 		{685934C3-12B9-40DA-B66D-D01AED5A1852}.Release|x86.Build.0 = Release|Win32
+		{687B9D72-CD27-44C2-822B-36F8AD8584AA}.Debug|x64.ActiveCfg = Debug|x64
+		{687B9D72-CD27-44C2-822B-36F8AD8584AA}.Debug|x64.Build.0 = Debug|x64
+		{687B9D72-CD27-44C2-822B-36F8AD8584AA}.Debug|x86.ActiveCfg = Debug|Win32
+		{687B9D72-CD27-44C2-822B-36F8AD8584AA}.Debug|x86.Build.0 = Debug|Win32
+		{687B9D72-CD27-44C2-822B-36F8AD8584AA}.Release|x64.ActiveCfg = Release|x64
+		{687B9D72-CD27-44C2-822B-36F8AD8584AA}.Release|x64.Build.0 = Release|x64
+		{687B9D72-CD27-44C2-822B-36F8AD8584AA}.Release|x86.ActiveCfg = Release|Win32
+		{687B9D72-CD27-44C2-822B-36F8AD8584AA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
