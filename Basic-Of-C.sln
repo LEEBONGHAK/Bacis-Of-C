@@ -35,6 +35,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "strlen", "strlen\strlen.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "symbolic_constants_and_define", "symbolic_constants_and_define\symbolic_constants_and_define.vcxproj", "{96877BD2-1FEE-447E-B5E5-1809D47C349F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "manifest_constants", "maifest_constants\maifest_constants.vcxproj", "{9C7CC972-714D-4406-A2A9-1D67A9FDC5F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -171,6 +173,14 @@ Global
 		{96877BD2-1FEE-447E-B5E5-1809D47C349F}.Release|x64.Build.0 = Release|x64
 		{96877BD2-1FEE-447E-B5E5-1809D47C349F}.Release|x86.ActiveCfg = Release|Win32
 		{96877BD2-1FEE-447E-B5E5-1809D47C349F}.Release|x86.Build.0 = Release|Win32
+		{9C7CC972-714D-4406-A2A9-1D67A9FDC5F3}.Debug|x64.ActiveCfg = Debug|x64
+		{9C7CC972-714D-4406-A2A9-1D67A9FDC5F3}.Debug|x64.Build.0 = Debug|x64
+		{9C7CC972-714D-4406-A2A9-1D67A9FDC5F3}.Debug|x86.ActiveCfg = Debug|Win32
+		{9C7CC972-714D-4406-A2A9-1D67A9FDC5F3}.Debug|x86.Build.0 = Debug|Win32
+		{9C7CC972-714D-4406-A2A9-1D67A9FDC5F3}.Release|x64.ActiveCfg = Release|x64
+		{9C7CC972-714D-4406-A2A9-1D67A9FDC5F3}.Release|x64.Build.0 = Release|x64
+		{9C7CC972-714D-4406-A2A9-1D67A9FDC5F3}.Release|x86.ActiveCfg = Release|Win32
+		{9C7CC972-714D-4406-A2A9-1D67A9FDC5F3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
