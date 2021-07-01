@@ -41,6 +41,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "usage_of_scanf_function", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "several_operators", "several_operators\several_operators.vcxproj", "{F491993A-C474-4C54-B8EA-A0B5E937A3BA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "type_conversion", "type_conversion\type_conversion.vcxproj", "{03DAAF91-E441-4D12-AD79-AD7746B84431}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -201,6 +203,14 @@ Global
 		{F491993A-C474-4C54-B8EA-A0B5E937A3BA}.Release|x64.Build.0 = Release|x64
 		{F491993A-C474-4C54-B8EA-A0B5E937A3BA}.Release|x86.ActiveCfg = Release|Win32
 		{F491993A-C474-4C54-B8EA-A0B5E937A3BA}.Release|x86.Build.0 = Release|Win32
+		{03DAAF91-E441-4D12-AD79-AD7746B84431}.Debug|x64.ActiveCfg = Debug|x64
+		{03DAAF91-E441-4D12-AD79-AD7746B84431}.Debug|x64.Build.0 = Debug|x64
+		{03DAAF91-E441-4D12-AD79-AD7746B84431}.Debug|x86.ActiveCfg = Debug|Win32
+		{03DAAF91-E441-4D12-AD79-AD7746B84431}.Debug|x86.Build.0 = Debug|Win32
+		{03DAAF91-E441-4D12-AD79-AD7746B84431}.Release|x64.ActiveCfg = Release|x64
+		{03DAAF91-E441-4D12-AD79-AD7746B84431}.Release|x64.Build.0 = Release|x64
+		{03DAAF91-E441-4D12-AD79-AD7746B84431}.Release|x86.ActiveCfg = Release|Win32
+		{03DAAF91-E441-4D12-AD79-AD7746B84431}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
