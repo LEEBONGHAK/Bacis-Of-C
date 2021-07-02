@@ -67,6 +67,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "comma_operator", "comma_ope
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "zeno_paradox", "zeno_paradox\zeno_paradox.vcxproj", "{CB418950-50B8-46A8-B074-039A9C7B4801}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "exit-condition_loop_do_while", "exit-condition_loop_do_while\exit-condition_loop_do_while.vcxproj", "{1D3D5C55-B842-4DB7-A69D-5D1565D710E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -331,6 +333,14 @@ Global
 		{CB418950-50B8-46A8-B074-039A9C7B4801}.Release|x64.Build.0 = Release|x64
 		{CB418950-50B8-46A8-B074-039A9C7B4801}.Release|x86.ActiveCfg = Release|Win32
 		{CB418950-50B8-46A8-B074-039A9C7B4801}.Release|x86.Build.0 = Release|Win32
+		{1D3D5C55-B842-4DB7-A69D-5D1565D710E3}.Debug|x64.ActiveCfg = Debug|x64
+		{1D3D5C55-B842-4DB7-A69D-5D1565D710E3}.Debug|x64.Build.0 = Debug|x64
+		{1D3D5C55-B842-4DB7-A69D-5D1565D710E3}.Debug|x86.ActiveCfg = Debug|Win32
+		{1D3D5C55-B842-4DB7-A69D-5D1565D710E3}.Debug|x86.Build.0 = Debug|Win32
+		{1D3D5C55-B842-4DB7-A69D-5D1565D710E3}.Release|x64.ActiveCfg = Release|x64
+		{1D3D5C55-B842-4DB7-A69D-5D1565D710E3}.Release|x64.Build.0 = Release|x64
+		{1D3D5C55-B842-4DB7-A69D-5D1565D710E3}.Release|x86.ActiveCfg = Release|Win32
+		{1D3D5C55-B842-4DB7-A69D-5D1565D710E3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
