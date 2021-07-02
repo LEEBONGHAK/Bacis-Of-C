@@ -49,6 +49,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "while_loop_with_scanf_funct
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "while_loop", "while_loop\while_loop.vcxproj", "{E10BA439-9D5E-454E-8B46-BC24D06BEB98}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "relational_operators", "relational_operators\relational_operators.vcxproj", "{99C1CD35-DD8F-498E-AED0-EBD8D50F021F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -241,6 +243,14 @@ Global
 		{E10BA439-9D5E-454E-8B46-BC24D06BEB98}.Release|x64.Build.0 = Release|x64
 		{E10BA439-9D5E-454E-8B46-BC24D06BEB98}.Release|x86.ActiveCfg = Release|Win32
 		{E10BA439-9D5E-454E-8B46-BC24D06BEB98}.Release|x86.Build.0 = Release|Win32
+		{99C1CD35-DD8F-498E-AED0-EBD8D50F021F}.Debug|x64.ActiveCfg = Debug|x64
+		{99C1CD35-DD8F-498E-AED0-EBD8D50F021F}.Debug|x64.Build.0 = Debug|x64
+		{99C1CD35-DD8F-498E-AED0-EBD8D50F021F}.Debug|x86.ActiveCfg = Debug|Win32
+		{99C1CD35-DD8F-498E-AED0-EBD8D50F021F}.Debug|x86.Build.0 = Debug|Win32
+		{99C1CD35-DD8F-498E-AED0-EBD8D50F021F}.Release|x64.ActiveCfg = Release|x64
+		{99C1CD35-DD8F-498E-AED0-EBD8D50F021F}.Release|x64.Build.0 = Release|x64
+		{99C1CD35-DD8F-498E-AED0-EBD8D50F021F}.Release|x86.ActiveCfg = Release|Win32
+		{99C1CD35-DD8F-498E-AED0-EBD8D50F021F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
