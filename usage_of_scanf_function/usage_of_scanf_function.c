@@ -39,9 +39,9 @@ int main() {
 
 
 	/* Width */
-	char str[30];
-	scanf("%5s", str);	// width : 몇 글자까지만 입력을 받을 것인지
-	printf("%s\n", str);
+	char str0[30];
+	scanf("%5s", str0);	// width : 몇 글자까지만 입력을 받을 것인지
+	printf("%s\n", str0);
 
 
 	/* h modifier */
@@ -99,7 +99,7 @@ int main() {
 
 
 	/* * modifier for printf() */
-	int i7;
+	int i7 = 1;
 	int width = 5; // from script file, scanf, etc.
 	printf("Input width : ");
 	scanf("%d", &width);
@@ -107,7 +107,7 @@ int main() {
 
 
 	/* * modifier for scanf() */
-	int i8;
+	int i8 = 1;
 	scanf("%*d%*d%d", i8); // 입력은 다 받지만 *가 있으면 무시됨
 	printf("Your third input %d\n", i8);
 
