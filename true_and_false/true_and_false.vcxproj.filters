@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="relational_operators.c">
+    <ClCompile Include="true_and_false.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

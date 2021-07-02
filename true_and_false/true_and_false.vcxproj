@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{99c1cd35-dd8f-498e-aed0-ebd8d50f021f}</ProjectGuid>
-    <RootNamespace>relationaloperators</RootNamespace>
+    <ProjectGuid>{59375bd6-5572-41cf-89ea-c2770f0ab7af}</ProjectGuid>
+    <RootNamespace>trueandfalse</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="relational_operators.c" />
+    <ClCompile Include="true_and_false.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
