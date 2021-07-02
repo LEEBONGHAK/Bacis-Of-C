@@ -63,6 +63,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "flexable_for_loop", "flexab
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "variable_assignment_operators", "variable_assignment_operators\variable_assignment_operators.vcxproj", "{BDB37AA8-2254-4E0C-BAB5-607B6C1F3238}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "comma_operator", "comma_operator\comma_operator.vcxproj", "{D6F5B720-5ED0-43E0-9A87-6127A733469D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -311,6 +313,14 @@ Global
 		{BDB37AA8-2254-4E0C-BAB5-607B6C1F3238}.Release|x64.Build.0 = Release|x64
 		{BDB37AA8-2254-4E0C-BAB5-607B6C1F3238}.Release|x86.ActiveCfg = Release|Win32
 		{BDB37AA8-2254-4E0C-BAB5-607B6C1F3238}.Release|x86.Build.0 = Release|Win32
+		{D6F5B720-5ED0-43E0-9A87-6127A733469D}.Debug|x64.ActiveCfg = Debug|x64
+		{D6F5B720-5ED0-43E0-9A87-6127A733469D}.Debug|x64.Build.0 = Debug|x64
+		{D6F5B720-5ED0-43E0-9A87-6127A733469D}.Debug|x86.ActiveCfg = Debug|Win32
+		{D6F5B720-5ED0-43E0-9A87-6127A733469D}.Debug|x86.Build.0 = Debug|Win32
+		{D6F5B720-5ED0-43E0-9A87-6127A733469D}.Release|x64.ActiveCfg = Release|x64
+		{D6F5B720-5ED0-43E0-9A87-6127A733469D}.Release|x64.Build.0 = Release|x64
+		{D6F5B720-5ED0-43E0-9A87-6127A733469D}.Release|x86.ActiveCfg = Release|Win32
+		{D6F5B720-5ED0-43E0-9A87-6127A733469D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
