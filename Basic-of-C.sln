@@ -61,6 +61,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "introduction_of_for_loop", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "flexable_for_loop", "flexable_for_loop\flexable_for_loop.vcxproj", "{95085668-39FC-4EA4-A9ED-6D4517F8986B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "variable_assignment_operators", "variable_assignment_operators\variable_assignment_operators.vcxproj", "{BDB37AA8-2254-4E0C-BAB5-607B6C1F3238}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -301,6 +303,14 @@ Global
 		{95085668-39FC-4EA4-A9ED-6D4517F8986B}.Release|x64.Build.0 = Release|x64
 		{95085668-39FC-4EA4-A9ED-6D4517F8986B}.Release|x86.ActiveCfg = Release|Win32
 		{95085668-39FC-4EA4-A9ED-6D4517F8986B}.Release|x86.Build.0 = Release|Win32
+		{BDB37AA8-2254-4E0C-BAB5-607B6C1F3238}.Debug|x64.ActiveCfg = Debug|x64
+		{BDB37AA8-2254-4E0C-BAB5-607B6C1F3238}.Debug|x64.Build.0 = Debug|x64
+		{BDB37AA8-2254-4E0C-BAB5-607B6C1F3238}.Debug|x86.ActiveCfg = Debug|Win32
+		{BDB37AA8-2254-4E0C-BAB5-607B6C1F3238}.Debug|x86.Build.0 = Debug|Win32
+		{BDB37AA8-2254-4E0C-BAB5-607B6C1F3238}.Release|x64.ActiveCfg = Release|x64
+		{BDB37AA8-2254-4E0C-BAB5-607B6C1F3238}.Release|x64.Build.0 = Release|x64
+		{BDB37AA8-2254-4E0C-BAB5-607B6C1F3238}.Release|x86.ActiveCfg = Release|Win32
+		{BDB37AA8-2254-4E0C-BAB5-607B6C1F3238}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
