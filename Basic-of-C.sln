@@ -81,6 +81,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "branching_statement_if", "i
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "getchar_and_putchar", "getchar_and_putchar\getchar_and_putchar.vcxproj", "{42F30BB1-503E-4885-BB72-E4644B5358D6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ctype.h", "ctype.h\ctype.h.vcxproj", "{2DD16BBA-1B05-4626-AFAD-D4602330FC55}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -401,6 +403,14 @@ Global
 		{42F30BB1-503E-4885-BB72-E4644B5358D6}.Release|x64.Build.0 = Release|x64
 		{42F30BB1-503E-4885-BB72-E4644B5358D6}.Release|x86.ActiveCfg = Release|Win32
 		{42F30BB1-503E-4885-BB72-E4644B5358D6}.Release|x86.Build.0 = Release|Win32
+		{2DD16BBA-1B05-4626-AFAD-D4602330FC55}.Debug|x64.ActiveCfg = Debug|x64
+		{2DD16BBA-1B05-4626-AFAD-D4602330FC55}.Debug|x64.Build.0 = Debug|x64
+		{2DD16BBA-1B05-4626-AFAD-D4602330FC55}.Debug|x86.ActiveCfg = Debug|Win32
+		{2DD16BBA-1B05-4626-AFAD-D4602330FC55}.Debug|x86.Build.0 = Debug|Win32
+		{2DD16BBA-1B05-4626-AFAD-D4602330FC55}.Release|x64.ActiveCfg = Release|x64
+		{2DD16BBA-1B05-4626-AFAD-D4602330FC55}.Release|x64.Build.0 = Release|x64
+		{2DD16BBA-1B05-4626-AFAD-D4602330FC55}.Release|x86.ActiveCfg = Release|Win32
+		{2DD16BBA-1B05-4626-AFAD-D4602330FC55}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
