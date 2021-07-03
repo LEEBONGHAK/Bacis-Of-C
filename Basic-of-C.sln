@@ -79,6 +79,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "use_return_value_of functio
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "branching_statement_if", "if\if.vcxproj", "{BF1E8C13-5BD5-4BCD-8791-2BA907715D11}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "getchar_and_putchar", "getchar_and_putchar\getchar_and_putchar.vcxproj", "{42F30BB1-503E-4885-BB72-E4644B5358D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -391,6 +393,14 @@ Global
 		{BF1E8C13-5BD5-4BCD-8791-2BA907715D11}.Release|x64.Build.0 = Release|x64
 		{BF1E8C13-5BD5-4BCD-8791-2BA907715D11}.Release|x86.ActiveCfg = Release|Win32
 		{BF1E8C13-5BD5-4BCD-8791-2BA907715D11}.Release|x86.Build.0 = Release|Win32
+		{42F30BB1-503E-4885-BB72-E4644B5358D6}.Debug|x64.ActiveCfg = Debug|x64
+		{42F30BB1-503E-4885-BB72-E4644B5358D6}.Debug|x64.Build.0 = Debug|x64
+		{42F30BB1-503E-4885-BB72-E4644B5358D6}.Debug|x86.ActiveCfg = Debug|Win32
+		{42F30BB1-503E-4885-BB72-E4644B5358D6}.Debug|x86.Build.0 = Debug|Win32
+		{42F30BB1-503E-4885-BB72-E4644B5358D6}.Release|x64.ActiveCfg = Release|x64
+		{42F30BB1-503E-4885-BB72-E4644B5358D6}.Release|x64.Build.0 = Release|x64
+		{42F30BB1-503E-4885-BB72-E4644B5358D6}.Release|x86.ActiveCfg = Release|Win32
+		{42F30BB1-503E-4885-BB72-E4644B5358D6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
