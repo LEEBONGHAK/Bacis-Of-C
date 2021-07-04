@@ -45,10 +45,10 @@ int main() {
 		printf("I love you!\n");
 	}
 
-	int i = 0;
+	int i1 = 0;
 	// 입력한 숫자가 7이 아니라면 계속 실행
 	// 권장하는 방법은 아님
-	for (printf("Let's go!\n"); i != 7; scanf("%d", &i)) {
+	for (printf("Let's go!\n"); i1 != 7; scanf("%d", &i1)) {
 		;			// null statement
 	}
 
