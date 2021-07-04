@@ -89,6 +89,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "combination_of_else_and_if"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "prime_number_judgment_example", "prime_number_judgment_example\prime_number_judgment_example.vcxproj", "{BB6EBA15-96D1-4EC4-ACE3-A98746F83134}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "logical_operators", "logical_operators\logical_operators.vcxproj", "{1E7714D0-E51C-4F8F-B15B-89E8E293184D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -441,6 +443,14 @@ Global
 		{BB6EBA15-96D1-4EC4-ACE3-A98746F83134}.Release|x64.Build.0 = Release|x64
 		{BB6EBA15-96D1-4EC4-ACE3-A98746F83134}.Release|x86.ActiveCfg = Release|Win32
 		{BB6EBA15-96D1-4EC4-ACE3-A98746F83134}.Release|x86.Build.0 = Release|Win32
+		{1E7714D0-E51C-4F8F-B15B-89E8E293184D}.Debug|x64.ActiveCfg = Debug|x64
+		{1E7714D0-E51C-4F8F-B15B-89E8E293184D}.Debug|x64.Build.0 = Debug|x64
+		{1E7714D0-E51C-4F8F-B15B-89E8E293184D}.Debug|x86.ActiveCfg = Debug|Win32
+		{1E7714D0-E51C-4F8F-B15B-89E8E293184D}.Debug|x86.Build.0 = Debug|Win32
+		{1E7714D0-E51C-4F8F-B15B-89E8E293184D}.Release|x64.ActiveCfg = Release|x64
+		{1E7714D0-E51C-4F8F-B15B-89E8E293184D}.Release|x64.Build.0 = Release|x64
+		{1E7714D0-E51C-4F8F-B15B-89E8E293184D}.Release|x86.ActiveCfg = Release|Win32
+		{1E7714D0-E51C-4F8F-B15B-89E8E293184D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
