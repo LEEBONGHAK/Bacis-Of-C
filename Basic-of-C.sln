@@ -93,6 +93,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "logical_operators", "logica
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "count_word", "count_word\count_word.vcxproj", "{014D85C0-95F9-42C7-BF9C-B84E019078AD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "conditional_operator", "conditional_operator\conditional_operator.vcxproj", "{21923E16-4B04-442C-9572-40F76784883A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -461,6 +463,14 @@ Global
 		{014D85C0-95F9-42C7-BF9C-B84E019078AD}.Release|x64.Build.0 = Release|x64
 		{014D85C0-95F9-42C7-BF9C-B84E019078AD}.Release|x86.ActiveCfg = Release|Win32
 		{014D85C0-95F9-42C7-BF9C-B84E019078AD}.Release|x86.Build.0 = Release|Win32
+		{21923E16-4B04-442C-9572-40F76784883A}.Debug|x64.ActiveCfg = Debug|x64
+		{21923E16-4B04-442C-9572-40F76784883A}.Debug|x64.Build.0 = Debug|x64
+		{21923E16-4B04-442C-9572-40F76784883A}.Debug|x86.ActiveCfg = Debug|Win32
+		{21923E16-4B04-442C-9572-40F76784883A}.Debug|x86.Build.0 = Debug|Win32
+		{21923E16-4B04-442C-9572-40F76784883A}.Release|x64.ActiveCfg = Release|x64
+		{21923E16-4B04-442C-9572-40F76784883A}.Release|x64.Build.0 = Release|x64
+		{21923E16-4B04-442C-9572-40F76784883A}.Release|x86.ActiveCfg = Release|Win32
+		{21923E16-4B04-442C-9572-40F76784883A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
