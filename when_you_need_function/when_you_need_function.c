@@ -7,11 +7,34 @@
 #define NAME	"Bong-Hak Lee"
 #define ADDRESS	"Seoul, Korea"
 
-void print_bar();
-void print_bar2(int n_stars);
-void print_blank(int n_blank);
-void print_multiple_chars(char c, int n_star);
-void print_centered_str(char str[]);
+void print_bar() {
+	printf("********************\n");
+}
+
+void print_bar2(int n_stars) {
+	for (int i = 0; i < n_stars; ++i) {
+		printf("*");
+	}
+	printf("\n");
+}
+
+void print_blank(int n_blank) {
+	for (int i = 0; i < n_blank; ++i) {
+		printf(" ");
+	}
+}
+
+void print_multiple_chars(char c, int n_star) {
+	for (int i = 0; i < n_star; ++i) {
+		printf("%c", c);	// putchar(c);
+	}
+}
+
+void print_centered_str(char str[]) {
+	int n_blank = (WIDTH - strlen(str)) / 2;
+	print_multiple_chars(' ', n_blank);
+	printf("%s\n", str);
+}
 
 // 코드를 작성할 때 일반화의 관점에서 많은 경우에 대응할 수 있도록
 // 같은 기능이 여러번 나오지 않게 (유지 보수를 위해)
@@ -90,33 +113,4 @@ int main() {
 	printf("\n\n");
 
 	return 0;
-}
-
-void print_bar() {
-	printf("********************\n");
-}
-
-void print_bar2(int n_stars) {
-	for (int i = 0; i < n_stars; ++i) {
-		printf("*");
-	}
-	printf("\n");
-}
-
-void print_blank(int n_blank) {
-	for (int i = 0; i < n_blank; ++i) {
-		printf(" ");
-	}
-}
-
-void print_multiple_chars(char c, int n_star) {
-	for (int i = 0; i < n_star; ++i) {
-		printf("%c", c);	// putchar(c);
-	}
-}
-
-void print_centered_str(char str[]) {
-	int n_blank = (WIDTH - strlen(str)) / 2;
-	print_multiple_chars(' ', n_blank);
-	printf("%s\n", str);
 }
