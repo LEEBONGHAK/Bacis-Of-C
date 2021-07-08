@@ -135,6 +135,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "factorial_example", "factor
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "binary_conversion_example", "binary_conversion_example\binary_conversion_example.vcxproj", "{C6EDBCA9-5693-4104-90A5-608C415B9C95}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fibonacci_example", "fibonacci_example\fibonacci_example.vcxproj", "{0ED07F63-8C72-45FF-8280-747CE03EB883}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -671,6 +673,14 @@ Global
 		{C6EDBCA9-5693-4104-90A5-608C415B9C95}.Release|x64.Build.0 = Release|x64
 		{C6EDBCA9-5693-4104-90A5-608C415B9C95}.Release|x86.ActiveCfg = Release|Win32
 		{C6EDBCA9-5693-4104-90A5-608C415B9C95}.Release|x86.Build.0 = Release|Win32
+		{0ED07F63-8C72-45FF-8280-747CE03EB883}.Debug|x64.ActiveCfg = Debug|x64
+		{0ED07F63-8C72-45FF-8280-747CE03EB883}.Debug|x64.Build.0 = Debug|x64
+		{0ED07F63-8C72-45FF-8280-747CE03EB883}.Debug|x86.ActiveCfg = Debug|Win32
+		{0ED07F63-8C72-45FF-8280-747CE03EB883}.Debug|x86.Build.0 = Debug|Win32
+		{0ED07F63-8C72-45FF-8280-747CE03EB883}.Release|x64.ActiveCfg = Release|x64
+		{0ED07F63-8C72-45FF-8280-747CE03EB883}.Release|x64.Build.0 = Release|x64
+		{0ED07F63-8C72-45FF-8280-747CE03EB883}.Release|x86.ActiveCfg = Release|Win32
+		{0ED07F63-8C72-45FF-8280-747CE03EB883}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
