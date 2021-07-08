@@ -131,6 +131,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "local_variables_and_scope_o
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "recursion", "recursion\recursion.vcxproj", "{C15B3CF6-7DAC-45FC-A21A-BB168ACBC118}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "factorial_example", "factorial_example\factorial_example.vcxproj", "{BF155315-994C-4DF2-9DFF-2974E8B3C9D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -651,6 +653,14 @@ Global
 		{C15B3CF6-7DAC-45FC-A21A-BB168ACBC118}.Release|x64.Build.0 = Release|x64
 		{C15B3CF6-7DAC-45FC-A21A-BB168ACBC118}.Release|x86.ActiveCfg = Release|Win32
 		{C15B3CF6-7DAC-45FC-A21A-BB168ACBC118}.Release|x86.Build.0 = Release|Win32
+		{BF155315-994C-4DF2-9DFF-2974E8B3C9D4}.Debug|x64.ActiveCfg = Debug|x64
+		{BF155315-994C-4DF2-9DFF-2974E8B3C9D4}.Debug|x64.Build.0 = Debug|x64
+		{BF155315-994C-4DF2-9DFF-2974E8B3C9D4}.Debug|x86.ActiveCfg = Debug|Win32
+		{BF155315-994C-4DF2-9DFF-2974E8B3C9D4}.Debug|x86.Build.0 = Debug|Win32
+		{BF155315-994C-4DF2-9DFF-2974E8B3C9D4}.Release|x64.ActiveCfg = Release|x64
+		{BF155315-994C-4DF2-9DFF-2974E8B3C9D4}.Release|x64.Build.0 = Release|x64
+		{BF155315-994C-4DF2-9DFF-2974E8B3C9D4}.Release|x86.ActiveCfg = Release|Win32
+		{BF155315-994C-4DF2-9DFF-2974E8B3C9D4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
