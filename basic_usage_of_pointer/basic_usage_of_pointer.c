@@ -38,6 +38,12 @@ int main() {
 
 	printf("%d %d %p\n", a, *a_ptr, a_ptr);
 
-
 	return 0;
 }
+
+/* Coding style */
+/*
+	int *a_ptr vs int* a_ptr
+	int* my_ptr, sec_ptr;	// 포인터와 int형 선언
+	int *my_ptr, sec_ptr;	// 포인터와 int형 선언	
+*/
