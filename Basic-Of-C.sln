@@ -141,6 +141,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "make_header_file", "make_he
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "basic_usage_of_pointer", "basic_usage_of_pointer\basic_usage_of_pointer.vcxproj", "{CD3910BF-FF37-480A-B823-BBD1459A6B8B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "null_pointer_and_runtime_error", "null_pointer_and_runtime_error\null_pointer_and_runtime_error.vcxproj", "{CB50A32F-48EE-4A35-AA84-D4CF464283AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -701,6 +703,14 @@ Global
 		{CD3910BF-FF37-480A-B823-BBD1459A6B8B}.Release|x64.Build.0 = Release|x64
 		{CD3910BF-FF37-480A-B823-BBD1459A6B8B}.Release|x86.ActiveCfg = Release|Win32
 		{CD3910BF-FF37-480A-B823-BBD1459A6B8B}.Release|x86.Build.0 = Release|Win32
+		{CB50A32F-48EE-4A35-AA84-D4CF464283AB}.Debug|x64.ActiveCfg = Debug|x64
+		{CB50A32F-48EE-4A35-AA84-D4CF464283AB}.Debug|x64.Build.0 = Debug|x64
+		{CB50A32F-48EE-4A35-AA84-D4CF464283AB}.Debug|x86.ActiveCfg = Debug|Win32
+		{CB50A32F-48EE-4A35-AA84-D4CF464283AB}.Debug|x86.Build.0 = Debug|Win32
+		{CB50A32F-48EE-4A35-AA84-D4CF464283AB}.Release|x64.ActiveCfg = Release|x64
+		{CB50A32F-48EE-4A35-AA84-D4CF464283AB}.Release|x64.Build.0 = Release|x64
+		{CB50A32F-48EE-4A35-AA84-D4CF464283AB}.Release|x86.ActiveCfg = Release|Win32
+		{CB50A32F-48EE-4A35-AA84-D4CF464283AB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
