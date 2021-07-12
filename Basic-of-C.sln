@@ -157,6 +157,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2-D_array_and_memory", "2-D
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2-D_array_example", "2-D_array_example\2-D_array_example.vcxproj", "{4B56D0B0-A223-4230-82C7-26488A9791D5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "return_array_to_function", "return_array_to_function\return_array_to_function.vcxproj", "{8BCF75E5-9C99-443A-9248-19AE01E8789C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -781,6 +783,14 @@ Global
 		{4B56D0B0-A223-4230-82C7-26488A9791D5}.Release|x64.Build.0 = Release|x64
 		{4B56D0B0-A223-4230-82C7-26488A9791D5}.Release|x86.ActiveCfg = Release|Win32
 		{4B56D0B0-A223-4230-82C7-26488A9791D5}.Release|x86.Build.0 = Release|Win32
+		{8BCF75E5-9C99-443A-9248-19AE01E8789C}.Debug|x64.ActiveCfg = Debug|x64
+		{8BCF75E5-9C99-443A-9248-19AE01E8789C}.Debug|x64.Build.0 = Debug|x64
+		{8BCF75E5-9C99-443A-9248-19AE01E8789C}.Debug|x86.ActiveCfg = Debug|Win32
+		{8BCF75E5-9C99-443A-9248-19AE01E8789C}.Debug|x86.Build.0 = Debug|Win32
+		{8BCF75E5-9C99-443A-9248-19AE01E8789C}.Release|x64.ActiveCfg = Release|x64
+		{8BCF75E5-9C99-443A-9248-19AE01E8789C}.Release|x64.Build.0 = Release|x64
+		{8BCF75E5-9C99-443A-9248-19AE01E8789C}.Release|x86.ActiveCfg = Release|Win32
+		{8BCF75E5-9C99-443A-9248-19AE01E8789C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
