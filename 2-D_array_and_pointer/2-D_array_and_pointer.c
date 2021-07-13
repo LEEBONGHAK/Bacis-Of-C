@@ -44,7 +44,7 @@ int main() {
 	float arr2d1[2][4] = { {1.0f,2.0f,3.0f,4.0f},{5.0f,6.0f,7.0f,8.0f} };
 
 	float (*pa)[4];		// a SINGLE pointer to an array of 4 floats
-	float *ap[2];		// aan array of TWO pointers-to-float
+	float *ap[2];		// an array of TWO pointers-to-float
 
 	printf("%zu\n", sizeof(pa));		// 8 in x64
 	printf("%zu\n", sizeof(ap));		// 16 in x64
