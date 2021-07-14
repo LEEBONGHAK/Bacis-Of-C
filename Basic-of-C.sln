@@ -181,6 +181,13 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "compound_literals_and_array
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "how_to_define_strings", "how_to_define_strings\how_to_define_strings.vcxproj", "{4C258F25-3891-4815-9C43-6C9DFB0FE067}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "memory_layout_and_strings", "memory_layout_and_strings\memory_layout_and_strings.vcxproj", "{6A5A1BED-C3BF-4CF5-9715-533A06D4EFFE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E58C832A-4006-4D3C-B036-23657C103D8A}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -901,6 +908,14 @@ Global
 		{4C258F25-3891-4815-9C43-6C9DFB0FE067}.Release|x64.Build.0 = Release|x64
 		{4C258F25-3891-4815-9C43-6C9DFB0FE067}.Release|x86.ActiveCfg = Release|Win32
 		{4C258F25-3891-4815-9C43-6C9DFB0FE067}.Release|x86.Build.0 = Release|Win32
+		{6A5A1BED-C3BF-4CF5-9715-533A06D4EFFE}.Debug|x64.ActiveCfg = Debug|x64
+		{6A5A1BED-C3BF-4CF5-9715-533A06D4EFFE}.Debug|x64.Build.0 = Debug|x64
+		{6A5A1BED-C3BF-4CF5-9715-533A06D4EFFE}.Debug|x86.ActiveCfg = Debug|Win32
+		{6A5A1BED-C3BF-4CF5-9715-533A06D4EFFE}.Debug|x86.Build.0 = Debug|Win32
+		{6A5A1BED-C3BF-4CF5-9715-533A06D4EFFE}.Release|x64.ActiveCfg = Release|x64
+		{6A5A1BED-C3BF-4CF5-9715-533A06D4EFFE}.Release|x64.Build.0 = Release|x64
+		{6A5A1BED-C3BF-4CF5-9715-533A06D4EFFE}.Release|x86.ActiveCfg = Release|Win32
+		{6A5A1BED-C3BF-4CF5-9715-533A06D4EFFE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
