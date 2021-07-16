@@ -18,6 +18,7 @@ int main() {
 	//putchar(ch);		// 한 문자를 출력한다.   -> int로 받아감
 	//printf("\n");
 
+
 	// 2. Use while loop to process character sequences
 	//while (ch2 != '\n') {		// Use '\n' to find the end of a sentence
 	while ((ch = getchar()) != '\n') {
