@@ -202,6 +202,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sort_pointer_of_strings", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "using_ctype.h_in_string", "using_ctype.h_in_string\using_ctype.h_in_string.vcxproj", "{5FC3710C-973D-45C9-8B65-984C6CC524CA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "command-line_arguments", "command-line_arguments\command-line_arguments.vcxproj", "{0DD9037E-F571-4D38-B8EB-E22F277B3783}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -986,6 +988,14 @@ Global
 		{5FC3710C-973D-45C9-8B65-984C6CC524CA}.Release|x64.Build.0 = Release|x64
 		{5FC3710C-973D-45C9-8B65-984C6CC524CA}.Release|x86.ActiveCfg = Release|Win32
 		{5FC3710C-973D-45C9-8B65-984C6CC524CA}.Release|x86.Build.0 = Release|Win32
+		{0DD9037E-F571-4D38-B8EB-E22F277B3783}.Debug|x64.ActiveCfg = Debug|x64
+		{0DD9037E-F571-4D38-B8EB-E22F277B3783}.Debug|x64.Build.0 = Debug|x64
+		{0DD9037E-F571-4D38-B8EB-E22F277B3783}.Debug|x86.ActiveCfg = Debug|Win32
+		{0DD9037E-F571-4D38-B8EB-E22F277B3783}.Debug|x86.Build.0 = Debug|Win32
+		{0DD9037E-F571-4D38-B8EB-E22F277B3783}.Release|x64.ActiveCfg = Release|x64
+		{0DD9037E-F571-4D38-B8EB-E22F277B3783}.Release|x64.Build.0 = Release|x64
+		{0DD9037E-F571-4D38-B8EB-E22F277B3783}.Release|x86.ActiveCfg = Release|Win32
+		{0DD9037E-F571-4D38-B8EB-E22F277B3783}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

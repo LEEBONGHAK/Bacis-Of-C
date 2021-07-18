@@ -30,6 +30,11 @@ int main() {
 void ToUpper(char* str) {
 	while (*str) {
 		*str = toupper(*str);
+		/*
+			if (islower(*str) {
+				*str = toupper(*str);
+			}
+		*/
 		str++;
 	}
 }
