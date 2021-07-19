@@ -3,7 +3,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-
 // project 오른 클릭 - Properties - Debugging - Command argument 에 argument 입력
 // 위의 방식으로도 command-line argument를 적용해 실행 가능
 // C 또는 C++ 로 작성된 프로그램을 다른 scripting 언어를 사용하여 실행시킬 때 유용하게 사용됨 (대표적인 scripting 언어 : python)

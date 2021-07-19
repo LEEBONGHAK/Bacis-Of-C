@@ -24,13 +24,13 @@ int main() {
 	*pd = 3.0;			// pd[0] = 3.0; arr[0] = 3.0; 
 	pd[2] = 1024.0;		// arr2[2] = 1024.0;	
 
-	printf("%f %f\n", pd[2], arr2[2]);
+	printf("%f %f\n", pd[2], arr2[2]);	// 1024.0 1024.0
 
 
 	//const double* const pd1 = arr2;		// pd1++; 사용 불가
 	const double* pd1 = arr2;
-	//*pd1 = 2.0;			// pd[0] = 2.0; arr[0] = 2.0; 
-	//pd1[2] = 10.0;		// arr2[2] = 10.0;	
+	//*pd1 = 2.0;			// pd[0] = 2.0; arr[0] = 2.0; - Error by const
+	//pd1[2] = 10.0;		// arr2[2] = 10.0;	- Error by const
 
 	printf("%f %f\n", pd1[2], arr2[2]);	// 1024.0 1024.0
 

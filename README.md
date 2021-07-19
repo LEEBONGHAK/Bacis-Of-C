@@ -211,7 +211,7 @@
 
 ### 섹션 12. Storage Classes, Linkage and Memory Management
 
- - [ ] 12.1 메모리 레이아웃 훑어보기
+ - [x] 12.1 메모리 레이아웃 훑어보기
  - [ ] 12.2 객체와 식별자, lvalue와 rvalue
  - [ ] 12.3 변수의 영역과 연결 상태, 객체의 지속 기간
  - [ ] 12.4 저장 공간의 다섯 가지 분류
