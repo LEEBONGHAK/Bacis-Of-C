@@ -210,6 +210,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "object_and_identifier,_L-va
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "scope_of_variable_and_linkage_and_duration_of_object", "scope_of_variable_and_linkage_and_duration_of_object\scope_of_variable_and_linkage_and_duration_of_object.vcxproj", "{891EBD74-4300-4C3B-92CE-6BF06AF10925}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "automatic_variables", "automatic_variables\automatic_variables.vcxproj", "{94EFC5EF-F117-4BA1-B505-C1A67B45CA50}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1026,6 +1028,14 @@ Global
 		{891EBD74-4300-4C3B-92CE-6BF06AF10925}.Release|x64.Build.0 = Release|x64
 		{891EBD74-4300-4C3B-92CE-6BF06AF10925}.Release|x86.ActiveCfg = Release|Win32
 		{891EBD74-4300-4C3B-92CE-6BF06AF10925}.Release|x86.Build.0 = Release|Win32
+		{94EFC5EF-F117-4BA1-B505-C1A67B45CA50}.Debug|x64.ActiveCfg = Debug|x64
+		{94EFC5EF-F117-4BA1-B505-C1A67B45CA50}.Debug|x64.Build.0 = Debug|x64
+		{94EFC5EF-F117-4BA1-B505-C1A67B45CA50}.Debug|x86.ActiveCfg = Debug|Win32
+		{94EFC5EF-F117-4BA1-B505-C1A67B45CA50}.Debug|x86.Build.0 = Debug|Win32
+		{94EFC5EF-F117-4BA1-B505-C1A67B45CA50}.Release|x64.ActiveCfg = Release|x64
+		{94EFC5EF-F117-4BA1-B505-C1A67B45CA50}.Release|x64.Build.0 = Release|x64
+		{94EFC5EF-F117-4BA1-B505-C1A67B45CA50}.Release|x86.ActiveCfg = Release|Win32
+		{94EFC5EF-F117-4BA1-B505-C1A67B45CA50}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
