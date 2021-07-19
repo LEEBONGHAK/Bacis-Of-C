@@ -216,6 +216,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "register_variables", "regis
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "static_variable_of_block_scope", "static_variable_of_block_scope\static_variable_of_block_scope.vcxproj", "{D63BA96F-A099-43A2-8A51-06C0FC534EC2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "static_variables_with_external_linkage", "static_variables_with_external_linkage\static_variables_with_external_linkage.vcxproj", "{9B0DB5FC-A11D-4321-847B-26872F4DF177}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1056,6 +1058,14 @@ Global
 		{D63BA96F-A099-43A2-8A51-06C0FC534EC2}.Release|x64.Build.0 = Release|x64
 		{D63BA96F-A099-43A2-8A51-06C0FC534EC2}.Release|x86.ActiveCfg = Release|Win32
 		{D63BA96F-A099-43A2-8A51-06C0FC534EC2}.Release|x86.Build.0 = Release|Win32
+		{9B0DB5FC-A11D-4321-847B-26872F4DF177}.Debug|x64.ActiveCfg = Debug|x64
+		{9B0DB5FC-A11D-4321-847B-26872F4DF177}.Debug|x64.Build.0 = Debug|x64
+		{9B0DB5FC-A11D-4321-847B-26872F4DF177}.Debug|x86.ActiveCfg = Debug|Win32
+		{9B0DB5FC-A11D-4321-847B-26872F4DF177}.Debug|x86.Build.0 = Debug|Win32
+		{9B0DB5FC-A11D-4321-847B-26872F4DF177}.Release|x64.ActiveCfg = Release|x64
+		{9B0DB5FC-A11D-4321-847B-26872F4DF177}.Release|x64.Build.0 = Release|x64
+		{9B0DB5FC-A11D-4321-847B-26872F4DF177}.Release|x86.ActiveCfg = Release|Win32
+		{9B0DB5FC-A11D-4321-847B-26872F4DF177}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
