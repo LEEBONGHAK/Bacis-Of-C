@@ -1,34 +1,35 @@
 ﻿# Basic of C
 
 Inflearn에 있는 강의 '홍정모의 따라하며 배우는 C언어'를 수강한 내용  
-url : https://www.inflearn.com/course/following-c/dashboard
+url : https://www.inflearn.com/course/following-c/dashboard  
+![CC license](http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png)  
 
 ---
 
 ## 목차
 
-섹션 0. [초보 프로그래머를 위한 컴퓨터의 작동원리](#섹션-0.-초보-프로그래머를-위한-컴퓨터의-작동원리)  
-섹션 1. [천천히 시작해봅시다](#섹션-1.-천천히-시작해봅시다)  
-섹션 2. [C언어를 소개합니다](#섹션-2.-c언어를-소개합니다)  
-섹션 3. [데이터와 C언어](#섹션-3.-데이터와-c언어)  
-섹션 4. [문자열과 형식 맞춘 입출력](#섹션-4.-문자열과-형식-맞춘-입출력)  
-섹션 5. [연산자, 표현식, 문장](#섹션-5.-연산자,-표현식,-문장)  
-섹션 6. [반복문](#섹션-6.-반복문)  
-섹션 7. [분기](#섹션-7.-분기)  
-섹션 8. [문자 입출력과 입력 유효성 검증](#섹션-8.-문자-입출력과-입력-유효성-검증)  
-섹션 9. [함수](#섹션-9.-함수)  
-섹션 10. [배열과 포인터](#섹션-10.-배열과-포인터)  
-섹션 11. [문자열 함수들](#섹션-11.-문자열-함수들)  
-섹션 12. [Storage Classes, Linkage and Memory Management](#섹션-12.-storage-classes,-linkage-and-memory-management)  
-섹션 13. [파일 입출력](#섹션-13.-파일-입출력)  
-섹션 14. [구조체](#섹션-14.-구조체)  
-섹션 15. [비트 다루기](#섹션-15.-비트-다루기)  
-섹션 16. [전처리기와 라이브러리](#섹션-16.-전처리기와-라이브러리)  
+섹션 0. [초보 프로그래머를 위한 컴퓨터의 작동원리](#섹션-0-초보-프로그래머를-위한-컴퓨터의-작동원리)  
+섹션 1. [천천히 시작해봅시다](#섹션-1-천천히-시작해봅시다)  
+섹션 2. [C언어를 소개합니다](#섹션-2-c언어를-소개합니다)  
+섹션 3. [데이터와 C언어](#섹션-3-데이터와-c언어)  
+섹션 4. [문자열과 형식 맞춘 입출력](#섹션-4-문자열과-형식-맞춘-입출력)  
+섹션 5. [연산자, 표현식, 문장](#섹션-5-연산자,-표현식,-문장)  
+섹션 6. [반복문](#섹션-6-반복문)  
+섹션 7. [분기](#섹션-7-분기)  
+섹션 8. [문자 입출력과 입력 유효성 검증](#섹션-8-문자-입출력과-입력-유효성-검증)  
+섹션 9. [함수](#섹션-9-함수)  
+섹션 10. [배열과 포인터](#섹션-10-배열과-포인터)  
+섹션 11. [문자열 함수들](#섹션-11-문자열-함수들)  
+섹션 12. [Storage Classes, Linkage and Memory Management](#섹션-12-storage-classes,-linkage-and-memory-management)  
+섹션 13. [파일 입출력](#섹션-13-파일-입출력)  
+섹션 14. [구조체](#섹션-14-구조체)  
+섹션 15. [비트 다루기](#섹션-15-비트-다루기)  
+섹션 16. [전처리기와 라이브러리](#섹션-16-전처리기와-라이브러리)  
 
 
 ---
 
-### 섹션 0. 초보 프로그래머를 위한 컴퓨터의 작동원리
+## 섹션 0. 초보 프로그래머를 위한 컴퓨터의 작동원리
 
  - [x] 0.0 초보 프로그래머를 위한 컴퓨터의 작동 원리 강의 개요
  - [x] 0.1 컴퓨터의 구성 요소들
@@ -43,7 +44,7 @@ url : https://www.inflearn.com/course/following-c/dashboard
  - [x] 0.10 이진수
 
 
-### 섹션 1. 천천히 시작해봅시다
+## 섹션 1. 천천히 시작해봅시다
 
  - [x] 1.0 C언어를 제대로 배우는 방법
  - [x] 1.1 C언어의 탄생
@@ -61,7 +62,7 @@ url : https://www.inflearn.com/course/following-c/dashboard
  - [x] 1.13 비주얼 스튜디오 코드의 기본적인 사용 방법
 
 
-### 섹션 2. C언어를 소개합니다
+## 섹션 2. C언어를 소개합니다
 
  - [x] 2.1 C의 해부학
  - [x] 2.2 C 프로그램 훑어보기
@@ -77,7 +78,7 @@ url : https://www.inflearn.com/course/following-c/dashboard
  - [x] 2.12 읽기 좋은 코드를 만드는 요령
 
 
-### 섹션 3. 데이터와 C언어
+## 섹션 3. 데이터와 C언어
 
  - [x] 3.1 데이터와 자료형
  - [x] 3.2 변수와 상수
@@ -95,7 +96,7 @@ url : https://www.inflearn.com/course/following-c/dashboard
  - [x] 3.14 복소수형
 
 
-### 섹션 4. 문자열과 형식 맞춘 입출력
+## 섹션 4. 문자열과 형식 맞춘 입출력
 
  - [x] 4.1 문자열 입출력하기
  - [x] 4.2 sizeof 연산자
@@ -109,7 +110,7 @@ url : https://www.inflearn.com/course/following-c/dashboard
  - [x] 4.10 scanf() 함수의 사용법
 
 
-### 섹션 5. 연산자, 표현식, 문장
+## 섹션 5. 연산자, 표현식, 문장
 
  - [x] 5.1 반복 루프와의 첫 만남
  - [x] 5.2 대입 연산자와 몇 가지 용어들
@@ -125,7 +126,7 @@ url : https://www.inflearn.com/course/following-c/dashboard
  - [x] 5.12 함수의 인수와 매개변수 ​
 
 
-### 섹션 6. 반복문
+## 섹션 6. 반복문
 
  - [x] 6.1 while 반복 루프에서 scanf()의 반환값 사용하기
  - [x] 6.2 의사 코드 Pseudo Code
@@ -147,7 +148,7 @@ url : https://www.inflearn.com/course/following-c/dashboard
  - [x] 6.18 루프 안에서 함수의 반환값 사용하기
 
 
-### 섹션 7. 분기
+## 섹션 7. 분기
 
  - [x] 7.1 분기문 if
  - [x] 7.2 표준 입출력 함수들 getchar(), putchar() 예제
@@ -164,7 +165,7 @@ url : https://www.inflearn.com/course/following-c/dashboard
  - [x] 7.13 goto를 피하는 방법
 
 
-### 섹션 8. 문자 입출력과 입력 유효성 검증
+## 섹션 8. 문자 입출력과 입력 유효성 검증
 
  - [x] 8.1 입출력 버퍼
  - [x] 8.2 파일의 끝
@@ -177,7 +178,7 @@ url : https://www.inflearn.com/course/following-c/dashboard
  - [x] 8.9 텍스트 파일 읽기
 
 
-### 섹션 9. 함수
+## 섹션 9. 함수
 
  - [x] 9.1 함수가 필요할 때
  - [x] 9.2 함수의 프로토타입
@@ -199,7 +200,7 @@ url : https://www.inflearn.com/course/following-c/dashboard
  - [x] 9.18 포인터형 매개변수
 
 
-### 섹션 10. 배열과 포인터
+## 섹션 10. 배열과 포인터
 
  - [x] 10.1 배열과 메모리
  - [x] 10.2 배열의 기본적인 사용방법
@@ -221,7 +222,7 @@ url : https://www.inflearn.com/course/following-c/dashboard
  - [x] 10.18 복합 리터럴과 배열 ​
 
 
-### 섹션 11. 문자열 함수들
+## 섹션 11. 문자열 함수들
 
  - [x] 11.1 문자열을 정의하는 방법들
  - [x] 11.2 메모리 레이아웃과 문자열
@@ -236,7 +237,7 @@ url : https://www.inflearn.com/course/following-c/dashboard
  - [x] 11.11 문자열을 숫자로 바꾸는 방법들
 
 
-### 섹션 12. Storage Classes, Linkage and Memory Management
+## 섹션 12. Storage Classes, Linkage and Memory Management
 
  - [x] 12.1 메모리 레이아웃 훑어보기
  - [x] 12.2 객체와 식별자, lvalue와 rvalue
@@ -259,7 +260,7 @@ url : https://www.inflearn.com/course/following-c/dashboard
  - [ ] 12.19 멀티 쓰레딩
 
 
-### 섹션 13. 파일 입출력
+## 섹션 13. 파일 입출력
 
  - [ ] 13.1 파일 입출력의 작동 원리
  - [ ] 13.2 텍스트 파일 입출력 예제
@@ -271,7 +272,7 @@ url : https://www.inflearn.com/course/following-c/dashboard
  - [ ] 13.8 텍스트 파일을 바이너리 처럼 읽어보기
 
 
-### 섹션 14. 구조체
+## 섹션 14. 구조체
 
  - [ ] 14.1 구조체가 필요한 이유
  - [ ] 14.2 구조체의 기본적인 사용법
@@ -301,7 +302,7 @@ url : https://www.inflearn.com/course/following-c/dashboard
  - [ ] 14.26 함수 포인터의 배열 연습문제
 
 
-### 섹션 15. 비트 다루기
+## 섹션 15. 비트 다루기
 
  - [ ] 15.1 비트단위 논리 연산자
  - [ ] 15.2 이진수를 십진수로 바꾸기 연습문제
@@ -317,7 +318,7 @@ url : https://www.inflearn.com/course/following-c/dashboard
  - [ ] 15.12 메모리 줄맞춤 alignof, alignas
 
 
-### 섹션 16. 전처리기와 라이브러리
+## 섹션 16. 전처리기와 라이브러리
 
  - [ ] 16.1 전처리기가 해주는 일들
  - [ ] 16.2 전처리를 준비하는 번역 단계
