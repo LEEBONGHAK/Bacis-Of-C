@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{2ff0486c-5897-4a1d-ba75-f6eadd9d5f67}</ProjectGuid>
-    <RootNamespace>classificationofmemoryforfunctions</RootNamespace>
+    <ProjectGuid>{12d3d1d0-f54c-4dbd-8df8-555b27db7c8f}</ProjectGuid>
+    <RootNamespace>makerandomnumbergeneratormodule</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>storage_classes_and_functions</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -140,8 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="storage_classes_and_functions.c" />
-    <ClCompile Include="two.c" />
+    <ClCompile Include="make_random_number_generator_module.c" />
+    <ClCompile Include="my_rand.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="my_rand.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

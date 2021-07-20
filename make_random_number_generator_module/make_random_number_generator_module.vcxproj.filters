@@ -15,11 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="storage_classes_and_functions.c">
+    <ClCompile Include="make_random_number_generator_module.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="two.c">
+    <ClCompile Include="my_rand.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="my_rand.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
