@@ -226,6 +226,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "make_random_number_generato
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dynamic_storage_allocation", "dynamic_storage_allocation\dynamic_storage_allocation.vcxproj", "{5E54CB52-7313-47C2-95FF-51694F08AED5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "memory_leak_and_important_of_free()_and_diagnostic_tool", "memory_leak_and_important_of_free()_and_diagnostic_tool\memory_leak_and_important_of_free()_and_diagnostic_tool.vcxproj", "{36861AF8-BBBB-46FA-B0EB-3DADB4F26BE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1106,6 +1108,14 @@ Global
 		{5E54CB52-7313-47C2-95FF-51694F08AED5}.Release|x64.Build.0 = Release|x64
 		{5E54CB52-7313-47C2-95FF-51694F08AED5}.Release|x86.ActiveCfg = Release|Win32
 		{5E54CB52-7313-47C2-95FF-51694F08AED5}.Release|x86.Build.0 = Release|Win32
+		{36861AF8-BBBB-46FA-B0EB-3DADB4F26BE9}.Debug|x64.ActiveCfg = Debug|x64
+		{36861AF8-BBBB-46FA-B0EB-3DADB4F26BE9}.Debug|x64.Build.0 = Debug|x64
+		{36861AF8-BBBB-46FA-B0EB-3DADB4F26BE9}.Debug|x86.ActiveCfg = Debug|Win32
+		{36861AF8-BBBB-46FA-B0EB-3DADB4F26BE9}.Debug|x86.Build.0 = Debug|Win32
+		{36861AF8-BBBB-46FA-B0EB-3DADB4F26BE9}.Release|x64.ActiveCfg = Release|x64
+		{36861AF8-BBBB-46FA-B0EB-3DADB4F26BE9}.Release|x64.Build.0 = Release|x64
+		{36861AF8-BBBB-46FA-B0EB-3DADB4F26BE9}.Release|x86.ActiveCfg = Release|Win32
+		{36861AF8-BBBB-46FA-B0EB-3DADB4F26BE9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
