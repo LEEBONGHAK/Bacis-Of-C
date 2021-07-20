@@ -255,9 +255,9 @@ url : https://www.inflearn.com/course/following-c/dashboard
  - [x] 12.14 메모리 누수와 free()의 중요성
  - [x] 12.15 동적 할당 메모리를 배열처럼 사용하기
  - [x] 12.16 calloc(), realloc()
- - [ ] 12.17 동적 할당 메모리와 저장 공간 분류
- - [ ] 12.18 자료형 한정자들 const, volatile, restrict
- - [ ] 12.19 멀티 쓰레딩
+ - [x] 12.17 동적 할당 메모리와 저장 공간 분류
+ - [x] 12.18 자료형 한정자들 const, volatile, restrict
+ - [x] 12.19 멀티 쓰레딩
 
 
 ## 섹션 13. 파일 입출력
