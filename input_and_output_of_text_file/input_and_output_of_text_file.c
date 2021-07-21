@@ -49,7 +49,6 @@ int main(int argc, char* argv[]) {
 		- w+ : reading and writing, over-writing or creating
 		- a+ : reading and writing, appending or creating
 	*/
-
 	
 	while ((ch = fgetc(fr)) != EOF) {		//getc(fr)
 		//putc(ch, stdout);		// same as putchar(ch);
