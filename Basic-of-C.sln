@@ -250,6 +250,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "another_input_and_output_fu
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "read_text_file_like_binary_file", "read_text_file_like_binary_file\read_text_file_like_binary_file.vcxproj", "{FC13D1DD-B893-4CE7-AD4F-A5282A10E99C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "basic_usage_of_structure", "basic_usage_of_structure\basic_usage_of_structure.vcxproj", "{42ED47D4-C9CD-4918-871C-8632887E474A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1226,6 +1228,14 @@ Global
 		{FC13D1DD-B893-4CE7-AD4F-A5282A10E99C}.Release|x64.Build.0 = Release|x64
 		{FC13D1DD-B893-4CE7-AD4F-A5282A10E99C}.Release|x86.ActiveCfg = Release|Win32
 		{FC13D1DD-B893-4CE7-AD4F-A5282A10E99C}.Release|x86.Build.0 = Release|Win32
+		{42ED47D4-C9CD-4918-871C-8632887E474A}.Debug|x64.ActiveCfg = Debug|x64
+		{42ED47D4-C9CD-4918-871C-8632887E474A}.Debug|x64.Build.0 = Debug|x64
+		{42ED47D4-C9CD-4918-871C-8632887E474A}.Debug|x86.ActiveCfg = Debug|Win32
+		{42ED47D4-C9CD-4918-871C-8632887E474A}.Debug|x86.Build.0 = Debug|Win32
+		{42ED47D4-C9CD-4918-871C-8632887E474A}.Release|x64.ActiveCfg = Release|x64
+		{42ED47D4-C9CD-4918-871C-8632887E474A}.Release|x64.Build.0 = Release|x64
+		{42ED47D4-C9CD-4918-871C-8632887E474A}.Release|x86.ActiveCfg = Release|Win32
+		{42ED47D4-C9CD-4918-871C-8632887E474A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

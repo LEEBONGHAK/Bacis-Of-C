@@ -50,17 +50,29 @@ int main() {
 
 
 	/*
-		strcmp() and strncpy() : 포인터만 복사하는 것이 아닌 내용물 하나하나를 복사 -> 같은 곳에 여러번 쓸 경우 덮어써짐
+		strcpy() and strncpy() : 포인터만 복사하는 것이 아닌 내용물 하나하나를 복사 -> 같은 곳에 여러번 쓸 경우 덮어써짐
 	*/
 	char dest[100] = "";		// make sure memory is enough
 	char source[] = "Start programming!";
 	//dest = source;			// Error
 	//dest = "Start something";	// Error
 	strcpy(dest, source);
+	puts(dest);
+
+	// add that the number of characters to be copied from source
+	strncpy(dest, "", 15);
 	strncpy(dest, source, 5);	// '\0' is Not added
+	puts(dest);
+
 	strcpy(dest, source + 6);
+	puts(dest);
+
 	strcpy(dest, source);
+	puts(dest);
+
 	strcpy(dest, source);
+	puts(dest);
+
 	strcpy(dest + 6, "coding!");
 	puts(dest);
 	printf("\n");
