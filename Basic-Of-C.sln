@@ -292,6 +292,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "enumerated_types_example", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "namespace", "namespace\namespace.vcxproj", "{A71D6F10-1992-44DB-A969-C9267FCAFF95}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "usage_of_function_pointer", "usage_of_function_pointer\usage_of_function_pointer.vcxproj", "{E4729545-2ECA-446D-BAE5-FAF373015914}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1436,6 +1438,14 @@ Global
 		{A71D6F10-1992-44DB-A969-C9267FCAFF95}.Release|x64.Build.0 = Release|x64
 		{A71D6F10-1992-44DB-A969-C9267FCAFF95}.Release|x86.ActiveCfg = Release|Win32
 		{A71D6F10-1992-44DB-A969-C9267FCAFF95}.Release|x86.Build.0 = Release|Win32
+		{E4729545-2ECA-446D-BAE5-FAF373015914}.Debug|x64.ActiveCfg = Debug|x64
+		{E4729545-2ECA-446D-BAE5-FAF373015914}.Debug|x64.Build.0 = Debug|x64
+		{E4729545-2ECA-446D-BAE5-FAF373015914}.Debug|x86.ActiveCfg = Debug|Win32
+		{E4729545-2ECA-446D-BAE5-FAF373015914}.Debug|x86.Build.0 = Debug|Win32
+		{E4729545-2ECA-446D-BAE5-FAF373015914}.Release|x64.ActiveCfg = Release|x64
+		{E4729545-2ECA-446D-BAE5-FAF373015914}.Release|x64.Build.0 = Release|x64
+		{E4729545-2ECA-446D-BAE5-FAF373015914}.Release|x86.ActiveCfg = Release|Win32
+		{E4729545-2ECA-446D-BAE5-FAF373015914}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
