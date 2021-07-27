@@ -298,6 +298,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "typedef", "typedef\typedef.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "typedef_2", "typedef_2\typedef_2.vcxproj", "{B9DC0B7E-A564-4818-B0F7-81183DDAF4F9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "deciphering_complex_declarations", "deciphering_complex_declarations\deciphering_complex_declarations.vcxproj", "{B05C0AEC-D810-46FC-A75F-AB678FFCD55B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1466,6 +1468,14 @@ Global
 		{B9DC0B7E-A564-4818-B0F7-81183DDAF4F9}.Release|x64.Build.0 = Release|x64
 		{B9DC0B7E-A564-4818-B0F7-81183DDAF4F9}.Release|x86.ActiveCfg = Release|Win32
 		{B9DC0B7E-A564-4818-B0F7-81183DDAF4F9}.Release|x86.Build.0 = Release|Win32
+		{B05C0AEC-D810-46FC-A75F-AB678FFCD55B}.Debug|x64.ActiveCfg = Debug|x64
+		{B05C0AEC-D810-46FC-A75F-AB678FFCD55B}.Debug|x64.Build.0 = Debug|x64
+		{B05C0AEC-D810-46FC-A75F-AB678FFCD55B}.Debug|x86.ActiveCfg = Debug|Win32
+		{B05C0AEC-D810-46FC-A75F-AB678FFCD55B}.Debug|x86.Build.0 = Debug|Win32
+		{B05C0AEC-D810-46FC-A75F-AB678FFCD55B}.Release|x64.ActiveCfg = Release|x64
+		{B05C0AEC-D810-46FC-A75F-AB678FFCD55B}.Release|x64.Build.0 = Release|x64
+		{B05C0AEC-D810-46FC-A75F-AB678FFCD55B}.Release|x86.ActiveCfg = Release|Win32
+		{B05C0AEC-D810-46FC-A75F-AB678FFCD55B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
