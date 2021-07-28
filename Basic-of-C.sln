@@ -306,6 +306,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qsort()_function_pointer_ex
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "array_of_function_pointer_example", "array_of_function_pointer_example\array_of_function_pointer_example.vcxproj", "{80E97592-A438-4E60-AD68-2C913E243815}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "convert_binary_to_decimal", "convert_binary_to_decimal\convert_binary_to_decimal.vcxproj", "{3F84FE68-1FFF-4434-A7EC-028CA6849FB1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1506,6 +1508,14 @@ Global
 		{80E97592-A438-4E60-AD68-2C913E243815}.Release|x64.Build.0 = Release|x64
 		{80E97592-A438-4E60-AD68-2C913E243815}.Release|x86.ActiveCfg = Release|Win32
 		{80E97592-A438-4E60-AD68-2C913E243815}.Release|x86.Build.0 = Release|Win32
+		{3F84FE68-1FFF-4434-A7EC-028CA6849FB1}.Debug|x64.ActiveCfg = Debug|x64
+		{3F84FE68-1FFF-4434-A7EC-028CA6849FB1}.Debug|x64.Build.0 = Debug|x64
+		{3F84FE68-1FFF-4434-A7EC-028CA6849FB1}.Debug|x86.ActiveCfg = Debug|Win32
+		{3F84FE68-1FFF-4434-A7EC-028CA6849FB1}.Debug|x86.Build.0 = Debug|Win32
+		{3F84FE68-1FFF-4434-A7EC-028CA6849FB1}.Release|x64.ActiveCfg = Release|x64
+		{3F84FE68-1FFF-4434-A7EC-028CA6849FB1}.Release|x64.Build.0 = Release|x64
+		{3F84FE68-1FFF-4434-A7EC-028CA6849FB1}.Release|x86.ActiveCfg = Release|Win32
+		{3F84FE68-1FFF-4434-A7EC-028CA6849FB1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
