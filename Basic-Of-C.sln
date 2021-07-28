@@ -310,6 +310,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "convert_binary_to_decimal",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "convert_decimal_to_binary_using_ampersand", "convert_decimal_to_binary_using_ampersand\convert_decimal_to_binary_using_ampersand.vcxproj", "{1751DBA1-9FC6-45E2-A4BA-215C7FD1D24F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "comfirm_bitwise_logical_operator", "comfirm_bitwise_logical_operator\comfirm_bitwise_logical_operator.vcxproj", "{102D6F15-2907-4576-B1AA-EE3AE46219EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1526,6 +1528,14 @@ Global
 		{1751DBA1-9FC6-45E2-A4BA-215C7FD1D24F}.Release|x64.Build.0 = Release|x64
 		{1751DBA1-9FC6-45E2-A4BA-215C7FD1D24F}.Release|x86.ActiveCfg = Release|Win32
 		{1751DBA1-9FC6-45E2-A4BA-215C7FD1D24F}.Release|x86.Build.0 = Release|Win32
+		{102D6F15-2907-4576-B1AA-EE3AE46219EC}.Debug|x64.ActiveCfg = Debug|x64
+		{102D6F15-2907-4576-B1AA-EE3AE46219EC}.Debug|x64.Build.0 = Debug|x64
+		{102D6F15-2907-4576-B1AA-EE3AE46219EC}.Debug|x86.ActiveCfg = Debug|Win32
+		{102D6F15-2907-4576-B1AA-EE3AE46219EC}.Debug|x86.Build.0 = Debug|Win32
+		{102D6F15-2907-4576-B1AA-EE3AE46219EC}.Release|x64.ActiveCfg = Release|x64
+		{102D6F15-2907-4576-B1AA-EE3AE46219EC}.Release|x64.Build.0 = Release|x64
+		{102D6F15-2907-4576-B1AA-EE3AE46219EC}.Release|x86.ActiveCfg = Release|Win32
+		{102D6F15-2907-4576-B1AA-EE3AE46219EC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
