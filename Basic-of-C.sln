@@ -318,6 +318,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bitwise_shift_operators", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "various_usage_of_bitwise_logical_operators", "various_usage_of_bitwise_logical_operators\various_usage_of_bitwise_logical_operators.vcxproj", "{A80EC7E5-0B3B-4378-99EA-8C44B428A50E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RGBA_color_bit_mask_example", "RGBA_color_bit_mask_example\RGBA_color_bit_mask_example.vcxproj", "{DEEEE2C1-F782-421F-B146-D1CC957A2F16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1566,6 +1568,14 @@ Global
 		{A80EC7E5-0B3B-4378-99EA-8C44B428A50E}.Release|x64.Build.0 = Release|x64
 		{A80EC7E5-0B3B-4378-99EA-8C44B428A50E}.Release|x86.ActiveCfg = Release|Win32
 		{A80EC7E5-0B3B-4378-99EA-8C44B428A50E}.Release|x86.Build.0 = Release|Win32
+		{DEEEE2C1-F782-421F-B146-D1CC957A2F16}.Debug|x64.ActiveCfg = Debug|x64
+		{DEEEE2C1-F782-421F-B146-D1CC957A2F16}.Debug|x64.Build.0 = Debug|x64
+		{DEEEE2C1-F782-421F-B146-D1CC957A2F16}.Debug|x86.ActiveCfg = Debug|Win32
+		{DEEEE2C1-F782-421F-B146-D1CC957A2F16}.Debug|x86.Build.0 = Debug|Win32
+		{DEEEE2C1-F782-421F-B146-D1CC957A2F16}.Release|x64.ActiveCfg = Release|x64
+		{DEEEE2C1-F782-421F-B146-D1CC957A2F16}.Release|x64.Build.0 = Release|x64
+		{DEEEE2C1-F782-421F-B146-D1CC957A2F16}.Release|x86.ActiveCfg = Release|Win32
+		{DEEEE2C1-F782-421F-B146-D1CC957A2F16}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
