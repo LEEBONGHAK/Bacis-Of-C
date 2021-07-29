@@ -316,6 +316,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "comfirm_2's_complement", "c
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bitwise_shift_operators", "bitwise_shift_operators\bitwise_shift_operators.vcxproj", "{2D9CF093-3098-4B64-AEB9-908A0D3C4DF9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "various_usage_of_bitwise_logical_operators", "various_usage_of_bitwise_logical_operators\various_usage_of_bitwise_logical_operators.vcxproj", "{A80EC7E5-0B3B-4378-99EA-8C44B428A50E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1556,6 +1558,14 @@ Global
 		{2D9CF093-3098-4B64-AEB9-908A0D3C4DF9}.Release|x64.Build.0 = Release|x64
 		{2D9CF093-3098-4B64-AEB9-908A0D3C4DF9}.Release|x86.ActiveCfg = Release|Win32
 		{2D9CF093-3098-4B64-AEB9-908A0D3C4DF9}.Release|x86.Build.0 = Release|Win32
+		{A80EC7E5-0B3B-4378-99EA-8C44B428A50E}.Debug|x64.ActiveCfg = Debug|x64
+		{A80EC7E5-0B3B-4378-99EA-8C44B428A50E}.Debug|x64.Build.0 = Debug|x64
+		{A80EC7E5-0B3B-4378-99EA-8C44B428A50E}.Debug|x86.ActiveCfg = Debug|Win32
+		{A80EC7E5-0B3B-4378-99EA-8C44B428A50E}.Debug|x86.Build.0 = Debug|Win32
+		{A80EC7E5-0B3B-4378-99EA-8C44B428A50E}.Release|x64.ActiveCfg = Release|x64
+		{A80EC7E5-0B3B-4378-99EA-8C44B428A50E}.Release|x64.Build.0 = Release|x64
+		{A80EC7E5-0B3B-4378-99EA-8C44B428A50E}.Release|x86.ActiveCfg = Release|Win32
+		{A80EC7E5-0B3B-4378-99EA-8C44B428A50E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
