@@ -320,6 +320,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "various_usage_of_bitwise_lo
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RGBA_color_bit_mask_example", "RGBA_color_bit_mask_example\RGBA_color_bit_mask_example.vcxproj", "{DEEEE2C1-F782-421F-B146-D1CC957A2F16}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "usage_of_bit_field", "usage_of_bit_field\usage_of_bit_field.vcxproj", "{F0A73E46-80CF-44FD-9700-1EEB389996EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1576,6 +1578,14 @@ Global
 		{DEEEE2C1-F782-421F-B146-D1CC957A2F16}.Release|x64.Build.0 = Release|x64
 		{DEEEE2C1-F782-421F-B146-D1CC957A2F16}.Release|x86.ActiveCfg = Release|Win32
 		{DEEEE2C1-F782-421F-B146-D1CC957A2F16}.Release|x86.Build.0 = Release|Win32
+		{F0A73E46-80CF-44FD-9700-1EEB389996EE}.Debug|x64.ActiveCfg = Debug|x64
+		{F0A73E46-80CF-44FD-9700-1EEB389996EE}.Debug|x64.Build.0 = Debug|x64
+		{F0A73E46-80CF-44FD-9700-1EEB389996EE}.Debug|x86.ActiveCfg = Debug|Win32
+		{F0A73E46-80CF-44FD-9700-1EEB389996EE}.Debug|x86.Build.0 = Debug|Win32
+		{F0A73E46-80CF-44FD-9700-1EEB389996EE}.Release|x64.ActiveCfg = Release|x64
+		{F0A73E46-80CF-44FD-9700-1EEB389996EE}.Release|x64.Build.0 = Release|x64
+		{F0A73E46-80CF-44FD-9700-1EEB389996EE}.Release|x86.ActiveCfg = Release|Win32
+		{F0A73E46-80CF-44FD-9700-1EEB389996EE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
