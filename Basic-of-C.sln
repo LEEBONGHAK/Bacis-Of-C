@@ -334,6 +334,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "function-like_macros", "fun
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "function-like_macros_2", "function-like_macros_2\function-like_macros_2.vcxproj", "{CDF222AD-0894-410E-8148-B60347818059}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "variadic_macros", "variadic_macros\variadic_macros.vcxproj", "{9EEA160B-FC24-4619-BB1B-8BE2CCB18264}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1646,6 +1648,14 @@ Global
 		{CDF222AD-0894-410E-8148-B60347818059}.Release|x64.Build.0 = Release|x64
 		{CDF222AD-0894-410E-8148-B60347818059}.Release|x86.ActiveCfg = Release|Win32
 		{CDF222AD-0894-410E-8148-B60347818059}.Release|x86.Build.0 = Release|Win32
+		{9EEA160B-FC24-4619-BB1B-8BE2CCB18264}.Debug|x64.ActiveCfg = Debug|x64
+		{9EEA160B-FC24-4619-BB1B-8BE2CCB18264}.Debug|x64.Build.0 = Debug|x64
+		{9EEA160B-FC24-4619-BB1B-8BE2CCB18264}.Debug|x86.ActiveCfg = Debug|Win32
+		{9EEA160B-FC24-4619-BB1B-8BE2CCB18264}.Debug|x86.Build.0 = Debug|Win32
+		{9EEA160B-FC24-4619-BB1B-8BE2CCB18264}.Release|x64.ActiveCfg = Release|x64
+		{9EEA160B-FC24-4619-BB1B-8BE2CCB18264}.Release|x64.Build.0 = Release|x64
+		{9EEA160B-FC24-4619-BB1B-8BE2CCB18264}.Release|x86.ActiveCfg = Release|Win32
+		{9EEA160B-FC24-4619-BB1B-8BE2CCB18264}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

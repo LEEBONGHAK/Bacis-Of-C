@@ -324,7 +324,7 @@ url : https://www.inflearn.com/course/following-c/dashboard
  - [x] 16.2 전처리를 준비하는 번역 단계
  - [x] 16.3 #define 매크로
  - [x] 16.4 함수 같은 매크로
- - [ ] 16.5 가변 인수 매크로
+ - [x] 16.5 가변 인수 매크로
  - [ ] 16.6 #include와 헤더 파일
  - [ ] 16.7 조건에 따라 다르게 컴파일하기
  - [ ] 16.8 미리 정의된 매크로들, #line, #error
