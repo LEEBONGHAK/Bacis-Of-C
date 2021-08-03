@@ -350,6 +350,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "conditional_compliation_5",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pre-defined_macros_and_line_and_error", "pre-defined_macros_and_line_and_error\pre-defined_macros_and_line_and_error.vcxproj", "{31C3E969-682F-4121-8C8E-3F2014D6C79E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pragma_indicator", "pragma_indicator\pragma_indicator.vcxproj", "{9620F490-7386-4A1D-BA83-AD35E66FA3EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1726,6 +1728,14 @@ Global
 		{31C3E969-682F-4121-8C8E-3F2014D6C79E}.Release|x64.Build.0 = Release|x64
 		{31C3E969-682F-4121-8C8E-3F2014D6C79E}.Release|x86.ActiveCfg = Release|Win32
 		{31C3E969-682F-4121-8C8E-3F2014D6C79E}.Release|x86.Build.0 = Release|Win32
+		{9620F490-7386-4A1D-BA83-AD35E66FA3EC}.Debug|x64.ActiveCfg = Debug|x64
+		{9620F490-7386-4A1D-BA83-AD35E66FA3EC}.Debug|x64.Build.0 = Debug|x64
+		{9620F490-7386-4A1D-BA83-AD35E66FA3EC}.Debug|x86.ActiveCfg = Debug|Win32
+		{9620F490-7386-4A1D-BA83-AD35E66FA3EC}.Debug|x86.Build.0 = Debug|Win32
+		{9620F490-7386-4A1D-BA83-AD35E66FA3EC}.Release|x64.ActiveCfg = Release|x64
+		{9620F490-7386-4A1D-BA83-AD35E66FA3EC}.Release|x64.Build.0 = Release|x64
+		{9620F490-7386-4A1D-BA83-AD35E66FA3EC}.Release|x86.ActiveCfg = Release|Win32
+		{9620F490-7386-4A1D-BA83-AD35E66FA3EC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
