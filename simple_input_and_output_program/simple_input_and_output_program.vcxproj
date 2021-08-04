@@ -24,6 +24,7 @@
     <ProjectGuid>{93a885d0-350b-4be9-ac0e-afcaecfa6019}</ProjectGuid>
     <RootNamespace>simpleinputandoutputprogram</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>3.4_simple_input_and_output_program</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -24,6 +24,7 @@
     <ProjectGuid>{661618f4-7926-4830-8deb-c8ab105f13f0}</ProjectGuid>
     <RootNamespace>returnarraystofunctionusingtwopointer</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>10.8_return_arrays_to_function_using_two_pointer</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

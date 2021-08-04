@@ -24,6 +24,7 @@
     <ProjectGuid>{b05c0aec-d810-46fc-a75f-ab678ffcd55b}</ProjectGuid>
     <RootNamespace>decipheringcomplexdeclarations</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>14.24_deciphering_complex_declarations</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

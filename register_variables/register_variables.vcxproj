@@ -24,6 +24,7 @@
     <ProjectGuid>{4ca28378-e694-4bb4-a497-2748fad1b4c2}</ProjectGuid>
     <RootNamespace>registervariables</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>12.6_register_variables</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

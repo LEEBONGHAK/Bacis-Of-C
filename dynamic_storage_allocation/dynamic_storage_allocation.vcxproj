@@ -24,6 +24,7 @@
     <ProjectGuid>{5e54cb52-7313-47c2-95ff-51694f08aed5}</ProjectGuid>
     <RootNamespace>dynamicstorageallocation</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>12.13_dynamic_storage_allocation</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

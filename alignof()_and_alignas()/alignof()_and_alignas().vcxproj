@@ -24,6 +24,7 @@
     <ProjectGuid>{619bbf8a-06b3-4dc1-a4d1-8cf110fcd576}</ProjectGuid>
     <RootNamespace>alignofandalignas</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>15.12_alignof()_and_alignas()</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

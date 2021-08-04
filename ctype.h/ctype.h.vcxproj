@@ -24,6 +24,7 @@
     <ProjectGuid>{2dd16bba-1b05-4626-afad-d4602330fc55}</ProjectGuid>
     <RootNamespace>ctypeh</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>7.3_ctype.h</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

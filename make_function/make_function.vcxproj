@@ -24,6 +24,7 @@
     <ProjectGuid>{b8bfd43b-3465-49aa-a2d8-f0d1057833d0}</ProjectGuid>
     <RootNamespace>makefunction</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>2.9_make_function</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

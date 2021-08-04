@@ -24,6 +24,7 @@
     <ProjectGuid>{1e7714d0-e51c-4f8f-b15b-89e8e293184d}</ProjectGuid>
     <RootNamespace>logicaloperators</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>7.7_logical_operators</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

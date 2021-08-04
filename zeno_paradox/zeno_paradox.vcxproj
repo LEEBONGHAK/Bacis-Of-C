@@ -24,6 +24,7 @@
     <ProjectGuid>{cb418950-50b8-46a8-b074-039a9c7b4801}</ProjectGuid>
     <RootNamespace>zenoparadox</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>6.12_zeno_paradox</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

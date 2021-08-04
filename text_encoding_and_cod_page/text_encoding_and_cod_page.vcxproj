@@ -24,6 +24,7 @@
     <ProjectGuid>{650da5ae-bd65-4cf7-bb10-533f7cb051a1}</ProjectGuid>
     <RootNamespace>textencodingandcodpage</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>13.3_text_encoding_and_cod_page</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -24,6 +24,7 @@
     <ProjectGuid>{3f84fe68-1fff-4434-a7ec-028ca6849fb1}</ProjectGuid>
     <RootNamespace>convertbinarytodecimal</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>15.2_convert_binary_to_decimal</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

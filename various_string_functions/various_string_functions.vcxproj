@@ -24,6 +24,7 @@
     <ProjectGuid>{69df1671-d26d-4acd-a8fe-93589e5a1212}</ProjectGuid>
     <RootNamespace>variousstringfunctions</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>11.6_various_string_functions</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

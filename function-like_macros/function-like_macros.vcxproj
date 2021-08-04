@@ -24,6 +24,7 @@
     <ProjectGuid>{1808e089-a78e-4aa2-b21a-8bcf17594a59}</ProjectGuid>
     <RootNamespace>functionlikemacros</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>16.4_function-like_macros</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

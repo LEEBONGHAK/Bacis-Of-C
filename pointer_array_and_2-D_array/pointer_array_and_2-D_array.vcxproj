@@ -24,6 +24,7 @@
     <ProjectGuid>{836bd6da-0e17-4eca-a3c1-8224c42ced57}</ProjectGuid>
     <RootNamespace>pointerarrayand2Darray</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>10.13_pointer_array_and_2-D_array</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

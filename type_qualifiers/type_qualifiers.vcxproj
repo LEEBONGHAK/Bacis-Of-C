@@ -24,6 +24,7 @@
     <ProjectGuid>{9cca8ae3-f5ac-480f-9527-ce62a31811d2}</ProjectGuid>
     <RootNamespace>typequalifiers</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>12.18_type_qualifiers</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

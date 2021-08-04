@@ -24,6 +24,7 @@
     <ProjectGuid>{bb6eba15-96d1-4ec4-ace3-a98746f83134}</ProjectGuid>
     <RootNamespace>primenumberjudgmentexample</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>7.6_prime_number_judgment_example</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

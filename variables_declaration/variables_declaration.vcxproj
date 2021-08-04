@@ -24,7 +24,7 @@
     <ProjectGuid>{ef489a93-afaf-4e23-850c-08072e3b54e6}</ProjectGuid>
     <RootNamespace>variablesdeclaration</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>basic_method_of_printf</ProjectName>
+    <ProjectName>2.6_basic_method_of_printf</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

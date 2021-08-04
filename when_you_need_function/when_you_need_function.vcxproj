@@ -24,6 +24,7 @@
     <ProjectGuid>{4476f5e2-c7cc-4c8b-84dc-f3d72cc9289b}</ProjectGuid>
     <RootNamespace>whenyouneedfunction</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>9.1_when_you_need_function</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

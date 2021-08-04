@@ -24,6 +24,7 @@
     <ProjectGuid>{277b0ce9-3e5c-40c2-8ee0-d2cca796e239}</ProjectGuid>
     <RootNamespace>flexiblearraymembers</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>14.11_flexible_array_members</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

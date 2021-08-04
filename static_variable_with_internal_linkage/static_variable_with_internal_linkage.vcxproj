@@ -24,6 +24,7 @@
     <ProjectGuid>{4770602d-8fcf-4fa8-84f6-dc935e2febd8}</ProjectGuid>
     <RootNamespace>staticvariablewithinternallinkage</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>12.9_static_variable_with_internal_linkage</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

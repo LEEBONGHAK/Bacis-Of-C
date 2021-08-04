@@ -24,6 +24,7 @@
     <ProjectGuid>{ec737dcd-2b14-45b3-ae91-d84a6a432720}</ProjectGuid>
     <RootNamespace>returnmultidimensionalarraystofunction</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>10.16_return_multidimensional_arrays_to_function</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

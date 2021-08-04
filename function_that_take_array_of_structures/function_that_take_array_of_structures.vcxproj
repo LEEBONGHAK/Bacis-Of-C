@@ -24,6 +24,7 @@
     <ProjectGuid>{645d9433-7c53-4454-83ce-5da3d07fe031}</ProjectGuid>
     <RootNamespace>functionthattakearrayofstructures</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>14.13_function_that_take_array_of_structures</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

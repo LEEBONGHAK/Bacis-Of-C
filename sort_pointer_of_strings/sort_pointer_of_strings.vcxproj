@@ -24,6 +24,7 @@
     <ProjectGuid>{2239dd25-3571-47c7-a98e-273f1238b480}</ProjectGuid>
     <RootNamespace>sortpointerofstrings</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>11.8_sort_pointer_of_strings</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

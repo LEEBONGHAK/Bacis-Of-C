@@ -24,6 +24,7 @@
     <ProjectGuid>{6a5a1bed-c3bf-4cf5-9715-533a06d4effe}</ProjectGuid>
     <RootNamespace>memorylayoutandstrings</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>11.2_memory_layout_and_strings</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -24,6 +24,7 @@
     <ProjectGuid>{b942d4db-12fa-4726-89f1-3f493fb8ea6a}</ProjectGuid>
     <RootNamespace>booleantypes</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>3.13_boolean_types</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

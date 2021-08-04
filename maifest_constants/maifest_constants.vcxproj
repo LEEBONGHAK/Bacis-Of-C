@@ -24,7 +24,7 @@
     <ProjectGuid>{9c7cc972-714d-4406-a2a9-1d67a9fdc5f3}</ProjectGuid>
     <RootNamespace>maifestconstants</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>manifest_constants</ProjectName>
+    <ProjectName>4.6_manifest_constants</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

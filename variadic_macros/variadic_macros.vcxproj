@@ -24,6 +24,7 @@
     <ProjectGuid>{9eea160b-fc24-4619-bb1b-8be2ccb18264}</ProjectGuid>
     <RootNamespace>variadicmacros</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>16.5_variadic_macros</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -24,6 +24,7 @@
     <ProjectGuid>{b55c1ac7-e33a-4fe4-9cf1-48acde6b602b}</ProjectGuid>
     <RootNamespace>howtoavoidgoto</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>7.13_how_to_avoid_goto</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

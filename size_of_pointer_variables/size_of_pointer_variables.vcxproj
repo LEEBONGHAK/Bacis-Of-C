@@ -24,6 +24,7 @@
     <ProjectGuid>{40a52b84-fb25-4439-b93b-93e9db61b614}</ProjectGuid>
     <RootNamespace>sizeofpointervariables</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>9.17_size_of_pointer_variables</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

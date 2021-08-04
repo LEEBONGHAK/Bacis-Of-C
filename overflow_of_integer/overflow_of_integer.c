@@ -26,7 +26,7 @@ int main() {
 	// 1111 + 1 = 10000 -> 만약 메모리가 4 bit라면 메모리를 초과하는 앞에 '1'은 저장되지 않음(overflow)
 	// 0000 - 1 = 1111 -> 마치 앞에 1이 존재하는 것처럼 계산됨
 
-	// i_overflow to binary representation
+	// i to binary representation
 	char buffer[33];
 	_itoa(i, buffer, 2);
 

@@ -24,6 +24,7 @@
     <ProjectGuid>{17aa4ca2-2fc9-4103-b32c-ddfaf1778a3b}</ProjectGuid>
     <RootNamespace>anotherinputandoutputfunctionsungetcfflushsetvbuf</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>13.7_another_input_and_output_functions_(ungetc()_fflush()_setvbuf())</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

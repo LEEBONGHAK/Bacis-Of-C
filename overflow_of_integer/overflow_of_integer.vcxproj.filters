@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="overflow_of_integer.cpp">
+    <ClCompile Include="overflow_of_integer.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

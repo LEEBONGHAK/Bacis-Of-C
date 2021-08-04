@@ -24,6 +24,7 @@
     <ProjectGuid>{e10ba439-9d5e-454e-8b46-bc24d06beb98}</ProjectGuid>
     <RootNamespace>whileloop</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>6.3_entry-condition_while_loop</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

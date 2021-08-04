@@ -24,6 +24,7 @@
     <ProjectGuid>{891e3c5a-cf19-40e9-a529-7a9306ad9a81}</ProjectGuid>
     <RootNamespace>strlen</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>4.4_strlen()</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

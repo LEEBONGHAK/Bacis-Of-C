@@ -24,6 +24,7 @@
     <ProjectGuid>{04cdbba5-329b-4ce4-a0ee-f75a0e1aacf0}</ProjectGuid>
     <RootNamespace>endoffileEOF</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>8.2_end_of_file_(EOF)</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

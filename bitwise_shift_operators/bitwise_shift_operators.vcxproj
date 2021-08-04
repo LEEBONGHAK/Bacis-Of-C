@@ -24,6 +24,7 @@
     <ProjectGuid>{2d9cf093-3098-4b64-aeb9-908a0d3c4df9}</ProjectGuid>
     <RootNamespace>bitwiseshiftoperators</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>15.6_bitwise_shift_operators</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

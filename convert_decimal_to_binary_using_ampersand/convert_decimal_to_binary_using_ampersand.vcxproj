@@ -24,6 +24,7 @@
     <ProjectGuid>{1751dba1-9fc6-45e2-a4ba-215c7fd1d24f}</ProjectGuid>
     <RootNamespace>convertdecimaltobinaryusingampersand</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>15.3_convert_decimal_to_binary_using_ampersand</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

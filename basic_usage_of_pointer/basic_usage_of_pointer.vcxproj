@@ -24,6 +24,7 @@
     <ProjectGuid>{cd3910bf-ff37-480a-b823-bbd1459a6b8b}</ProjectGuid>
     <RootNamespace>basicusageofpointer</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>9.13_basic_usage_of_pointer</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

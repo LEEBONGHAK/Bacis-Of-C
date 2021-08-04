@@ -24,6 +24,7 @@
     <ProjectGuid>{79cfcee0-3cec-42f3-9380-794819ff17d2}</ProjectGuid>
     <RootNamespace>whileloopwithscanffunction</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>6.1_while_loop_with_scanf_function</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

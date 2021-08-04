@@ -24,7 +24,7 @@
     <ProjectGuid>{87d1c157-cd37-4093-a047-7e5d366231f9}</ProjectGuid>
     <RootNamespace>switchandbreak</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>switch_and_case</ProjectName>
+    <ProjectName>7.12_switch_and_case</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

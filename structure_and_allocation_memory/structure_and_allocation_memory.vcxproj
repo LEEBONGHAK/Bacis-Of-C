@@ -24,6 +24,7 @@
     <ProjectGuid>{cf256acc-f98a-4f5b-9890-11a5609713c2}</ProjectGuid>
     <RootNamespace>structureandallocationmemory</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>14.9_structure_and_allocation_memory</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

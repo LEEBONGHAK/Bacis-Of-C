@@ -24,6 +24,7 @@
     <ProjectGuid>{7cf3cc46-f9bc-456d-bc0e-abe10704e60a}</ProjectGuid>
     <RootNamespace>typeandreturnoffunction</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>9.3_type_and_return_of_function</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

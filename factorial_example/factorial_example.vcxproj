@@ -24,6 +24,7 @@
     <ProjectGuid>{bf155315-994c-4df2-9dff-2974e8b3c9d4}</ProjectGuid>
     <RootNamespace>factorialexample</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>9.8_factorial_example</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

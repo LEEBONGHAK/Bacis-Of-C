@@ -24,6 +24,7 @@
     <ProjectGuid>{e7ec367b-8518-4178-b600-ad0574451636}</ProjectGuid>
     <RootNamespace>usageofscanffunction</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>4.10_usage_of_scanf_function</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -24,7 +24,7 @@
     <ProjectGuid>{fc06703e-3ffa-449d-a1c1-7fc30b4f5e02}</ProjectGuid>
     <RootNamespace>localvariablesandareaofvariables</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>local_variables_and_scope_of_variables</ProjectName>
+    <ProjectName>9.4_local_variables_and_scope_of_variables</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

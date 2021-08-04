@@ -24,6 +24,7 @@
     <ProjectGuid>{d57fb442-5634-4c8f-8f2b-cc1485ac154b}</ProjectGuid>
     <RootNamespace>conditionalcompliation3</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>16.7_conditional_compliation_3</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

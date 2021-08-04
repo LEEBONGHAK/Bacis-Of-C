@@ -33,7 +33,7 @@ int main() {
 		}
 
 		display(c, rows, cols);
-		printf("INput another character and two integers: \n");
+		printf("Input another character and two integers: \n");
 		printf("Press Enter to quit.\n");
 	}
 

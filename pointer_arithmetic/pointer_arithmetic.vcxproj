@@ -24,6 +24,7 @@
     <ProjectGuid>{1d1b802a-5cae-49a1-a537-82a134140ae5}</ProjectGuid>
     <RootNamespace>pointerarithmetic</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>10.3_pointer_arithmetic</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

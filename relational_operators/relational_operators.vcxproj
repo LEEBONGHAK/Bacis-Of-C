@@ -24,6 +24,7 @@
     <ProjectGuid>{99c1cd35-dd8f-498e-aed0-ebd8d50f021f}</ProjectGuid>
     <RootNamespace>relationaloperators</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>6.4_relational_operators</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -24,6 +24,7 @@
     <ProjectGuid>{5fc3710c-973d-45c9-8b65-984c6cc524ca}</ProjectGuid>
     <RootNamespace>usingctypehinstring</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>11.9_using_ctype.h_in_string</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

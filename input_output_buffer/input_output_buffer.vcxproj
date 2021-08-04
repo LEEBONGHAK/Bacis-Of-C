@@ -24,6 +24,7 @@
     <ProjectGuid>{c9f65ba8-0d43-4ff3-953a-c2f4570fa224}</ProjectGuid>
     <RootNamespace>inputoutputbuffer</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>8.1_input_output_buffer</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

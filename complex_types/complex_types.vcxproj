@@ -24,6 +24,7 @@
     <ProjectGuid>{72e983f1-d724-44f5-83ac-6b9b8d6ed7b1}</ProjectGuid>
     <RootNamespace>complextypes</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>3.14_complex_types</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

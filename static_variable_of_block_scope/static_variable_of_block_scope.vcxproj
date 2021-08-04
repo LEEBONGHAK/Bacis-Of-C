@@ -24,6 +24,7 @@
     <ProjectGuid>{d63ba96f-a099-43a2-8a51-06c0fc534ec2}</ProjectGuid>
     <RootNamespace>staticvariableofblockscope</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>12..7_static_variable_of_block_scope</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

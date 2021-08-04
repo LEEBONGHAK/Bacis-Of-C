@@ -3,374 +3,374 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "declaration_method", "Bacis-Of-C\Bacis-Of-C.vcxproj", "{14004951-3C04-4784-A325-A74DB1B9436B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.5_declaration_method", "Bacis-Of-C\Bacis-Of-C.vcxproj", "{14004951-3C04-4784-A325-A74DB1B9436B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "basic_method_of_printf", "variables_declaration\variables_declaration.vcxproj", "{EF489A93-AFAF-4E23-850C-08072E3B54E6}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.6_basic_method_of_printf", "variables_declaration\variables_declaration.vcxproj", "{EF489A93-AFAF-4E23-850C-08072E3B54E6}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "make_function", "make_function\make_function.vcxproj", "{B8BFD43B-3465-49AA-A2D8-F0D1057833D0}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.9_make_function", "make_function\make_function.vcxproj", "{B8BFD43B-3465-49AA-A2D8-F0D1057833D0}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "basic_usage_of_scanf_function", "basic_usage_of_scanf_function\basic_usage_of_scanf_function.vcxproj", "{2931D106-39A6-48F4-901D-6C284A25772B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.3_basic_usage_of_scanf_function", "basic_usage_of_scanf_function\basic_usage_of_scanf_function.vcxproj", "{2931D106-39A6-48F4-901D-6C284A25772B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "simple_input_and_output_program", "simple_input_and_output_program\simple_input_and_output_program.vcxproj", "{93A885D0-350B-4BE9-AC0E-AFCAECFA6019}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.4_simple_input_and_output_program", "simple_input_and_output_program\simple_input_and_output_program.vcxproj", "{93A885D0-350B-4BE9-AC0E-AFCAECFA6019}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "overflow_of_integer", "overflow_of_integer\overflow_of_integer.vcxproj", "{9775ACFF-BD95-49C2-9F94-D9C79F2BDA52}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.6_overflow_of_integer", "overflow_of_integer\overflow_of_integer.vcxproj", "{9775ACFF-BD95-49C2-9F94-D9C79F2BDA52}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fixed-width_integers", "fixed-width_integers\fixed-width_integers.vcxproj", "{6B7F71C4-9BFA-4896-98FB-6C02DAB9E8AA}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.9_fixed-width_integers", "fixed-width_integers\fixed-width_integers.vcxproj", "{6B7F71C4-9BFA-4896-98FB-6C02DAB9E8AA}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "character_type", "character_type\character_type.vcxproj", "{8CE3918C-EC4B-45D7-ABEA-83F85D32D84C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.10_character_type", "character_type\character_type.vcxproj", "{8CE3918C-EC4B-45D7-ABEA-83F85D32D84C}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "limitation_of_floating-point", "limitation_of_floating-point\limitation_of_floating-point.vcxproj", "{D9196DEF-C30D-487E-8158-A810E0819F4F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.12_limitation_of_floating-point", "limitation_of_floating-point\limitation_of_floating-point.vcxproj", "{D9196DEF-C30D-487E-8158-A810E0819F4F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "boolean_types", "boolean_types\boolean_types.vcxproj", "{B942D4DB-12FA-4726-89F1-3F493FB8EA6A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.13_boolean_types", "boolean_types\boolean_types.vcxproj", "{B942D4DB-12FA-4726-89F1-3F493FB8EA6A}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "complex_types", "complex_types\complex_types.vcxproj", "{72E983F1-D724-44F5-83AC-6B9B8D6ED7B1}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.14_complex_types", "complex_types\complex_types.vcxproj", "{72E983F1-D724-44F5-83AC-6B9B8D6ED7B1}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "basic_input_and_output_of_character_list", "basic_input_and_output_of_character_list\basic_input_and_output_of_character_list.vcxproj", "{685934C3-12B9-40DA-B66D-D01AED5A1852}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4.1_basic_input_and_output_of_string", "basic_input_and_output_of_character_list\basic_input_and_output_of_character_list.vcxproj", "{685934C3-12B9-40DA-B66D-D01AED5A1852}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sizeof", "sizeof\sizeof.vcxproj", "{687B9D72-CD27-44C2-822B-36F8AD8584AA}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4.2_sizeof", "sizeof\sizeof.vcxproj", "{687B9D72-CD27-44C2-822B-36F8AD8584AA}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "storage_principle_of_string_in_memory", "storage_principle_of_string_in_memory\storage_principle_of_string_in_memory.vcxproj", "{2D618400-9FEF-4A3B-8028-6B3E26F2AEF1}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4.3_storage_principle_of_string_in_memory", "storage_principle_of_string_in_memory\storage_principle_of_string_in_memory.vcxproj", "{2D618400-9FEF-4A3B-8028-6B3E26F2AEF1}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "strlen", "strlen\strlen.vcxproj", "{891E3C5A-CF19-40E9-A529-7A9306AD9A81}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4.4_strlen()", "strlen\strlen.vcxproj", "{891E3C5A-CF19-40E9-A529-7A9306AD9A81}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "symbolic_constants_and_define", "symbolic_constants_and_define\symbolic_constants_and_define.vcxproj", "{96877BD2-1FEE-447E-B5E5-1809D47C349F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4.5_symbolic_constants_and_define", "symbolic_constants_and_define\symbolic_constants_and_define.vcxproj", "{96877BD2-1FEE-447E-B5E5-1809D47C349F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "manifest_constants", "maifest_constants\maifest_constants.vcxproj", "{9C7CC972-714D-4406-A2A9-1D67A9FDC5F3}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4.6_manifest_constants", "maifest_constants\maifest_constants.vcxproj", "{9C7CC972-714D-4406-A2A9-1D67A9FDC5F3}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "usage_of_scanf_function", "usage_of_scanf_function\usage_of_scanf_function.vcxproj", "{E7EC367B-8518-4178-B600-AD0574451636}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4.10_usage_of_scanf_function", "usage_of_scanf_function\usage_of_scanf_function.vcxproj", "{E7EC367B-8518-4178-B600-AD0574451636}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "several_operators", "several_operators\several_operators.vcxproj", "{F491993A-C474-4C54-B8EA-A0B5E937A3BA}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5.3-5.8_several_operators", "several_operators\several_operators.vcxproj", "{F491993A-C474-4C54-B8EA-A0B5E937A3BA}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "type_conversion", "type_conversion\type_conversion.vcxproj", "{03DAAF91-E441-4D12-AD79-AD7746B84431}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5.11_type_conversion", "type_conversion\type_conversion.vcxproj", "{03DAAF91-E441-4D12-AD79-AD7746B84431}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "arguments_and_parameters", "arguments_and_parameters\arguments_and_parameters.vcxproj", "{487355CA-B4A3-4878-9560-C9A5699F8048}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5.12_arguments_and_parameters", "arguments_and_parameters\arguments_and_parameters.vcxproj", "{487355CA-B4A3-4878-9560-C9A5699F8048}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "while_loop_with_scanf_function", "while_loop_with_scanf_function\while_loop_with_scanf_function.vcxproj", "{79CFCEE0-3CEC-42F3-9380-794819FF17D2}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.1_while_loop_with_scanf_function", "while_loop_with_scanf_function\while_loop_with_scanf_function.vcxproj", "{79CFCEE0-3CEC-42F3-9380-794819FF17D2}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "while_loop", "while_loop\while_loop.vcxproj", "{E10BA439-9D5E-454E-8B46-BC24D06BEB98}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.3_entry-condition_while_loop", "while_loop\while_loop.vcxproj", "{E10BA439-9D5E-454E-8B46-BC24D06BEB98}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "relational_operators", "relational_operators\relational_operators.vcxproj", "{99C1CD35-DD8F-498E-AED0-EBD8D50F021F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.4_relational_operators", "relational_operators\relational_operators.vcxproj", "{99C1CD35-DD8F-498E-AED0-EBD8D50F021F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "true_and_false", "true_and_false\true_and_false.vcxproj", "{59375BD6-5572-41CF-89EA-C2770F0AB7AF}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.5_true_and_false", "true_and_false\true_and_false.vcxproj", "{59375BD6-5572-41CF-89EA-C2770F0AB7AF}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "_Bool", "_Bool\_Bool.vcxproj", "{B7BB55B1-9F49-4B68-BB7C-CD4F7A2953C1}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.6_'_Bool'", "_Bool\_Bool.vcxproj", "{B7BB55B1-9F49-4B68-BB7C-CD4F7A2953C1}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "precedence_of_relational_operators", "precedence_of_relational_operators\precedence_of_relational_operators.vcxproj", "{9F0144AE-0952-4460-9BBD-54AEE770BEDA}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.7_precedence_of_relational_operators", "precedence_of_relational_operators\precedence_of_relational_operators.vcxproj", "{9F0144AE-0952-4460-9BBD-54AEE770BEDA}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "introduction_of_for_loop", "introduction_of_for_loop\introduction_of_for_loop.vcxproj", "{80F51DCA-0BC6-4028-A3F6-CFF24818F00D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.8_introduction_of_for_loop", "introduction_of_for_loop\introduction_of_for_loop.vcxproj", "{80F51DCA-0BC6-4028-A3F6-CFF24818F00D}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "flexable_for_loop", "flexable_for_loop\flexable_for_loop.vcxproj", "{95085668-39FC-4EA4-A9ED-6D4517F8986B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.9_flexable_for_loop", "flexable_for_loop\flexable_for_loop.vcxproj", "{95085668-39FC-4EA4-A9ED-6D4517F8986B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "variable_assignment_operators", "variable_assignment_operators\variable_assignment_operators.vcxproj", "{BDB37AA8-2254-4E0C-BAB5-607B6C1F3238}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.10_various_assignment_operators", "variable_assignment_operators\variable_assignment_operators.vcxproj", "{BDB37AA8-2254-4E0C-BAB5-607B6C1F3238}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "comma_operator", "comma_operator\comma_operator.vcxproj", "{D6F5B720-5ED0-43E0-9A87-6127A733469D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.11_comma_operator", "comma_operator\comma_operator.vcxproj", "{D6F5B720-5ED0-43E0-9A87-6127A733469D}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "zeno_paradox", "zeno_paradox\zeno_paradox.vcxproj", "{CB418950-50B8-46A8-B074-039A9C7B4801}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.12_zeno_paradox", "zeno_paradox\zeno_paradox.vcxproj", "{CB418950-50B8-46A8-B074-039A9C7B4801}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "exit-condition_loop_do_while", "exit-condition_loop_do_while\exit-condition_loop_do_while.vcxproj", "{1D3D5C55-B842-4DB7-A69D-5D1565D710E3}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.13_exit-condition_loop_do_while", "exit-condition_loop_do_while\exit-condition_loop_do_while.vcxproj", "{1D3D5C55-B842-4DB7-A69D-5D1565D710E3}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nested_loops", "nested_loops\nested_loops.vcxproj", "{189B16BB-D9DF-43E1-93E1-81D9327D2D41}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.15_nested_loops", "nested_loops\nested_loops.vcxproj", "{189B16BB-D9DF-43E1-93E1-81D9327D2D41}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "array_and_runtime_error", "loop_and_runtime_error\loop_and_runtime_error.vcxproj", "{D0B3FDFA-57FA-4110-8D00-CE6CAF247B84}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.16_array_and_runtime_error", "loop_and_runtime_error\loop_and_runtime_error.vcxproj", "{D0B3FDFA-57FA-4110-8D00-CE6CAF247B84}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "for_loop_with_array", "for_loop_with_array\for_loop_with_array.vcxproj", "{BDB1BB3C-60B2-4CCC-B67D-4AB8BAD8A08F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.17_for_loop_with_array", "for_loop_with_array\for_loop_with_array.vcxproj", "{BDB1BB3C-60B2-4CCC-B67D-4AB8BAD8A08F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "use_return_value_of function_in_loop", "use_return_value_of function_in_loop\use_return_value_of function_in_loop.vcxproj", "{DC4B9C82-0379-482E-ABDE-7C5232E73CA9}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.18_use_return_value_of_function_in_loop", "use_return_value_of function_in_loop\use_return_value_of function_in_loop.vcxproj", "{DC4B9C82-0379-482E-ABDE-7C5232E73CA9}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "branching_statement_if", "if\if.vcxproj", "{BF1E8C13-5BD5-4BCD-8791-2BA907715D11}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7.1_branching_statement_if", "if\if.vcxproj", "{BF1E8C13-5BD5-4BCD-8791-2BA907715D11}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "getchar_and_putchar", "getchar_and_putchar\getchar_and_putchar.vcxproj", "{42F30BB1-503E-4885-BB72-E4644B5358D6}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7.2_getchar_and_putchar", "getchar_and_putchar\getchar_and_putchar.vcxproj", "{42F30BB1-503E-4885-BB72-E4644B5358D6}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ctype.h", "ctype.h\ctype.h.vcxproj", "{2DD16BBA-1B05-4626-AFAD-D4602330FC55}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7.3_ctype.h", "ctype.h\ctype.h.vcxproj", "{2DD16BBA-1B05-4626-AFAD-D4602330FC55}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "else_if", "else_if\else_if.vcxproj", "{AF73FDB3-4DF2-483C-A033-1D00D5604D52}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7.4_else_if", "else_if\else_if.vcxproj", "{AF73FDB3-4DF2-483C-A033-1D00D5604D52}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "combination_of_else_and_if", "combination_of_else_and_if\combination_of_else_and_if.vcxproj", "{F2591604-3CEC-41B6-8E07-73C6DBA6B5EB}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7.5_combination_of_else_and_if", "combination_of_else_and_if\combination_of_else_and_if.vcxproj", "{F2591604-3CEC-41B6-8E07-73C6DBA6B5EB}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "prime_number_judgment_example", "prime_number_judgment_example\prime_number_judgment_example.vcxproj", "{BB6EBA15-96D1-4EC4-ACE3-A98746F83134}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7.6_prime_number_judgment_example", "prime_number_judgment_example\prime_number_judgment_example.vcxproj", "{BB6EBA15-96D1-4EC4-ACE3-A98746F83134}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "logical_operators", "logical_operators\logical_operators.vcxproj", "{1E7714D0-E51C-4F8F-B15B-89E8E293184D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7.7_logical_operators", "logical_operators\logical_operators.vcxproj", "{1E7714D0-E51C-4F8F-B15B-89E8E293184D}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "count_word", "count_word\count_word.vcxproj", "{014D85C0-95F9-42C7-BF9C-B84E019078AD}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7.8_count_word_example", "count_word\count_word.vcxproj", "{014D85C0-95F9-42C7-BF9C-B84E019078AD}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "conditional_operator", "conditional_operator\conditional_operator.vcxproj", "{21923E16-4B04-442C-9572-40F76784883A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7.9_conditional_operator", "conditional_operator\conditional_operator.vcxproj", "{21923E16-4B04-442C-9572-40F76784883A}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "continue_and_break", "continue_and_break\continue_and_break.vcxproj", "{5C128FF3-B415-42F9-BDDF-BFB9B4A1C592}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7.10_continue_and_break", "continue_and_break\continue_and_break.vcxproj", "{5C128FF3-B415-42F9-BDDF-BFB9B4A1C592}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "maximum_minimum_average_example", "maximum_minimum_average_example\maximum_minimum_average_example.vcxproj", "{F41F437A-0CDF-4E4F-A125-9982287DFBF7}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7.11_maximum_minimum_average_example", "maximum_minimum_average_example\maximum_minimum_average_example.vcxproj", "{F41F437A-0CDF-4E4F-A125-9982287DFBF7}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "switch_and_case", "switch_and_break\switch_and_break.vcxproj", "{87D1C157-CD37-4093-A047-7E5D366231F9}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7.12_switch_and_case", "switch_and_break\switch_and_break.vcxproj", "{87D1C157-CD37-4093-A047-7E5D366231F9}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "how_to_avoid_goto", "how_to_avoid_goto\how_to_avoid_goto.vcxproj", "{B55C1AC7-E33A-4FE4-9CF1-48ACDE6B602B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7.13_how_to_avoid_goto", "how_to_avoid_goto\how_to_avoid_goto.vcxproj", "{B55C1AC7-E33A-4FE4-9CF1-48ACDE6B602B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "input_output_buffer", "input_output_buffer\input_output_buffer.vcxproj", "{C9F65BA8-0D43-4FF3-953A-C2F4570FA224}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8.1_input_output_buffer", "input_output_buffer\input_output_buffer.vcxproj", "{C9F65BA8-0D43-4FF3-953A-C2F4570FA224}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "end_of_file_(EOF)", "end_of_file_(EOF)\end_of_file_(EOF).vcxproj", "{04CDBBA5-329B-4CE4-A0EE-F75A0E1AACF0}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8.2_end_of_file_(EOF)", "end_of_file_(EOF)\end_of_file_(EOF).vcxproj", "{04CDBBA5-329B-4CE4-A0EE-F75A0E1AACF0}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "redirection_of_input_and_output", "redirection_of_input_and_output\redirection_of_input_and_output.vcxproj", "{B9C298E1-FB98-450B-B507-42A99A667759}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8.3_redirection_of_input_and_output", "redirection_of_input_and_output\redirection_of_input_and_output.vcxproj", "{B9C298E1-FB98-450B-B507-42A99A667759}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "friendly_user_interface", "friendly_user_interface\friendly_user_interface.vcxproj", "{8043BF04-7EE0-4350-BF7B-650E29B6AF20}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8.4_friendly_user_interface", "friendly_user_interface\friendly_user_interface.vcxproj", "{8043BF04-7EE0-4350-BF7B-650E29B6AF20}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "input_character_and_number", "input_character_and_number\input_character_and_number.vcxproj", "{30276D30-B408-4E97-ADC0-00681BE9A6C2}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8.5_input_character_and_number", "input_character_and_number\input_character_and_number.vcxproj", "{30276D30-B408-4E97-ADC0-00681BE9A6C2}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "confirm_input", "confirm_input\confirm_input.vcxproj", "{7C7C0932-A837-49B7-9099-7A8507AFD3E5}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8.6_confirm_input", "confirm_input\confirm_input.vcxproj", "{7C7C0932-A837-49B7-9099-7A8507AFD3E5}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "input_stream_and_number", "input_stream_and_number\input_stream_and_number.vcxproj", "{7AD21CF3-AFFE-4A2D-BEBD-5CC1878384B0}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8.7_input_stream_and_number", "input_stream_and_number\input_stream_and_number.vcxproj", "{7AD21CF3-AFFE-4A2D-BEBD-5CC1878384B0}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "making_menu", "making_menu\making_menu.vcxproj", "{FA44EB5B-AD20-4AB5-85F9-ED9CEE7DA98A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8.8_making_menu", "making_menu\making_menu.vcxproj", "{FA44EB5B-AD20-4AB5-85F9-ED9CEE7DA98A}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "read_text_file", "read_text_file\read_text_file.vcxproj", "{A03D5AAA-1D41-4ECF-B137-1F7B03F2745D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8.9_read_text_file", "read_text_file\read_text_file.vcxproj", "{A03D5AAA-1D41-4ECF-B137-1F7B03F2745D}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "when_you_need_function", "when_you_need_function\when_you_need_function.vcxproj", "{4476F5E2-C7CC-4C8B-84DC-F3D72CC9289B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9.1_when_you_need_function", "when_you_need_function\when_you_need_function.vcxproj", "{4476F5E2-C7CC-4C8B-84DC-F3D72CC9289B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "prototype_of_function", "prototype_of_function\prototype_of_function.vcxproj", "{E208ED15-3C0C-464B-B74B-012E5AD57F38}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9.2_prototype_of_function", "prototype_of_function\prototype_of_function.vcxproj", "{E208ED15-3C0C-464B-B74B-012E5AD57F38}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "type_and_return_of_function", "type_and_return_of_function\type_and_return_of_function.vcxproj", "{7CF3CC46-F9BC-456D-BC0E-ABE10704E60A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9.3_type_and_return_of_function", "type_and_return_of_function\type_and_return_of_function.vcxproj", "{7CF3CC46-F9BC-456D-BC0E-ABE10704E60A}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "local_variables_and_scope_of_variables", "local_variables_and_area_of_variables\local_variables_and_area_of_variables.vcxproj", "{FC06703E-3FFA-449D-A1C1-7FC30B4F5E02}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9.4_local_variables_and_scope_of_variables", "local_variables_and_area_of_variables\local_variables_and_area_of_variables.vcxproj", "{FC06703E-3FFA-449D-A1C1-7FC30B4F5E02}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "recursion", "recursion\recursion.vcxproj", "{C15B3CF6-7DAC-45FC-A21A-BB168ACBC118}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9.6-9.7_recursion", "recursion\recursion.vcxproj", "{C15B3CF6-7DAC-45FC-A21A-BB168ACBC118}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "factorial_example", "factorial_example\factorial_example.vcxproj", "{BF155315-994C-4DF2-9DFF-2974E8B3C9D4}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9.8_factorial_example", "factorial_example\factorial_example.vcxproj", "{BF155315-994C-4DF2-9DFF-2974E8B3C9D4}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "binary_conversion_example", "binary_conversion_example\binary_conversion_example.vcxproj", "{C6EDBCA9-5693-4104-90A5-608C415B9C95}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9.9_binary_conversion_example", "binary_conversion_example\binary_conversion_example.vcxproj", "{C6EDBCA9-5693-4104-90A5-608C415B9C95}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fibonacci_example", "fibonacci_example\fibonacci_example.vcxproj", "{0ED07F63-8C72-45FF-8280-747CE03EB883}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9.10_fibonacci_example", "fibonacci_example\fibonacci_example.vcxproj", "{0ED07F63-8C72-45FF-8280-747CE03EB883}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "make_header_file", "make_header_file\make_header_file.vcxproj", "{56B43661-83BB-49AD-AC15-104F7EC12B8A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9.11_make_header_file", "make_header_file\make_header_file.vcxproj", "{56B43661-83BB-49AD-AC15-104F7EC12B8A}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "basic_usage_of_pointer", "basic_usage_of_pointer\basic_usage_of_pointer.vcxproj", "{CD3910BF-FF37-480A-B823-BBD1459A6B8B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9.13_basic_usage_of_pointer", "basic_usage_of_pointer\basic_usage_of_pointer.vcxproj", "{CD3910BF-FF37-480A-B823-BBD1459A6B8B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "null_pointer_and_runtime_error", "null_pointer_and_runtime_error\null_pointer_and_runtime_error.vcxproj", "{CB50A32F-48EE-4A35-AA84-D4CF464283AB}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9.15_null_pointer_and_runtime_error", "null_pointer_and_runtime_error\null_pointer_and_runtime_error.vcxproj", "{CB50A32F-48EE-4A35-AA84-D4CF464283AB}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "size_of_pointer_variables", "size_of_pointer_variables\size_of_pointer_variables.vcxproj", "{40A52B84-FB25-4439-B93B-93E9DB61B614}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9.17_size_of_pointer_variables", "size_of_pointer_variables\size_of_pointer_variables.vcxproj", "{40A52B84-FB25-4439-B93B-93E9DB61B614}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pointer_type_parameter", "pointer_type_parameter\pointer_type_parameter.vcxproj", "{BEE371ED-A5CF-4887-B191-F49633A3CF99}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9.18_pointer_type_parameter", "pointer_type_parameter\pointer_type_parameter.vcxproj", "{BEE371ED-A5CF-4887-B191-F49633A3CF99}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "basic_usage_of_array", "basic_usage_of_array\basic_usage_of_array.vcxproj", "{39AB43F0-CBC5-443C-9C61-1FE675DA442E}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10.2_basic_usage_of_array", "basic_usage_of_array\basic_usage_of_array.vcxproj", "{39AB43F0-CBC5-443C-9C61-1FE675DA442E}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pointer_arithmetic", "pointer_arithmetic\pointer_arithmetic.vcxproj", "{1D1B802A-5CAE-49A1-A537-82A134140AE5}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10.3_pointer_arithmetic", "pointer_arithmetic\pointer_arithmetic.vcxproj", "{1D1B802A-5CAE-49A1-A537-82A134140AE5}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pointer_and_array", "pointer_and_array\pointer_and_array.vcxproj", "{60EA4FB2-0C7C-4A13-9FF7-733ECE1EA794}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10.4_pointer_and_array", "pointer_and_array\pointer_and_array.vcxproj", "{60EA4FB2-0C7C-4A13-9FF7-733ECE1EA794}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2-D_array_and_memory", "2-D_array_and_memory\2-D_array_and_memory.vcxproj", "{217F1FAB-E2FC-4F80-9EE9-90E49AA467D1}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10.5_2-D_array_and_memory", "2-D_array_and_memory\2-D_array_and_memory.vcxproj", "{217F1FAB-E2FC-4F80-9EE9-90E49AA467D1}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2-D_array_example", "2-D_array_example\2-D_array_example.vcxproj", "{4B56D0B0-A223-4230-82C7-26488A9791D5}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10.6_2-D_array_example", "2-D_array_example\2-D_array_example.vcxproj", "{4B56D0B0-A223-4230-82C7-26488A9791D5}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "return_array_to_function", "return_array_to_function\return_array_to_function.vcxproj", "{8BCF75E5-9C99-443A-9248-19AE01E8789C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10.7_return_array_to_function", "return_array_to_function\return_array_to_function.vcxproj", "{8BCF75E5-9C99-443A-9248-19AE01E8789C}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "return_arrays_to_function_using_two_pointer", "return_arrays_to_function_using_two_pointer\return_arrays_to_function_using_two_pointer.vcxproj", "{661618F4-7926-4830-8DEB-C8AB105F13F0}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10.8_return_arrays_to_function_using_two_pointer", "return_arrays_to_function_using_two_pointer\return_arrays_to_function_using_two_pointer.vcxproj", "{661618F4-7926-4830-8DEB-C8AB105F13F0}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pointer_arithmetic_summary", "pointer_arithmetic_summary\pointer_arithmetic_summary.vcxproj", "{A6FAF80C-35E0-4CED-8E5A-A092214A8D2D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10.9_pointer_arithmetic_summary", "pointer_arithmetic_summary\pointer_arithmetic_summary.vcxproj", "{A6FAF80C-35E0-4CED-8E5A-A092214A8D2D}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "const_and_array_and_pointer", "const_and_array_and_pointer\const_and_array_and_pointer.vcxproj", "{3F0DC079-63B6-4A1E-9B4C-933C8A659A43}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10.10_const_and_array_and_pointer", "const_and_array_and_pointer\const_and_array_and_pointer.vcxproj", "{3F0DC079-63B6-4A1E-9B4C-933C8A659A43}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "array_parameter_and_const", "array_parameter_and_const\array_parameter_and_const.vcxproj", "{8915B7A8-509D-4DA8-9B56-888AE2F54D1C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10.11_array_parameter_and_const", "array_parameter_and_const\array_parameter_and_const.vcxproj", "{8915B7A8-509D-4DA8-9B56-888AE2F54D1C}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pointer_array_and_2-D_array", "pointer_array_and_2-D_array\pointer_array_and_2-D_array.vcxproj", "{836BD6DA-0E17-4ECA-A3C1-8224C42CED57}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10.13_pointer_array_and_2-D_array", "pointer_array_and_2-D_array\pointer_array_and_2-D_array.vcxproj", "{836BD6DA-0E17-4ECA-A3C1-8224C42CED57}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2-D_array_and_pointer", "2-D_array_and_pointer\2-D_array_and_pointer.vcxproj", "{4DF1E45D-7C1A-4937-84C0-94CE6E35640C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10.14_2-D_array_and_pointer", "2-D_array_and_pointer\2-D_array_and_pointer.vcxproj", "{4DF1E45D-7C1A-4937-84C0-94CE6E35640C}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pointer_and_compatibility", "pointer_and_compatibility\pointer_and_compatibility.vcxproj", "{557FE292-5D93-46FF-93D0-ACF5148438BA}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10.15_pointer_and_compatibility", "pointer_and_compatibility\pointer_and_compatibility.vcxproj", "{557FE292-5D93-46FF-93D0-ACF5148438BA}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "return_multidimensional_arrays_to_function", "return_multidimensional_arrays_to_function\return_multidimensional_arrays_to_function.vcxproj", "{EC737DCD-2B14-45B3-AE91-D84A6A432720}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10.16_return_multidimensional_arrays_to_function", "return_multidimensional_arrays_to_function\return_multidimensional_arrays_to_function.vcxproj", "{EC737DCD-2B14-45B3-AE91-D84A6A432720}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "variable-length_arrays_(VLAs)", "variable-length_arrays_(VLAs)\variable-length_arrays_(VLAs).vcxproj", "{98A9FB98-FED3-4954-8253-9EE1268A96CE}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10.17_variable-length_arrays_(VLAs)", "variable-length_arrays_(VLAs)\variable-length_arrays_(VLAs).vcxproj", "{98A9FB98-FED3-4954-8253-9EE1268A96CE}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "compound_literals_and_arrays", "compound_literals_and_arrays\compound_literals_and_arrays.vcxproj", "{4AFF849D-C59B-4453-B5F0-8AC587FAB151}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10.18_compound_literals_and_arrays", "compound_literals_and_arrays\compound_literals_and_arrays.vcxproj", "{4AFF849D-C59B-4453-B5F0-8AC587FAB151}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "how_to_define_strings", "how_to_define_strings\how_to_define_strings.vcxproj", "{4C258F25-3891-4815-9C43-6C9DFB0FE067}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11.1_how_to_define_strings", "how_to_define_strings\how_to_define_strings.vcxproj", "{4C258F25-3891-4815-9C43-6C9DFB0FE067}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "memory_layout_and_strings", "memory_layout_and_strings\memory_layout_and_strings.vcxproj", "{6A5A1BED-C3BF-4CF5-9715-533A06D4EFFE}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11.2_memory_layout_and_strings", "memory_layout_and_strings\memory_layout_and_strings.vcxproj", "{6A5A1BED-C3BF-4CF5-9715-533A06D4EFFE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E58C832A-4006-4D3C-B036-23657C103D8A}"
 	ProjectSection(SolutionItems) = preProject
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "array_of_string", "array_of_string\array_of_string.vcxproj", "{99FEB0D8-B39C-4AED-8099-45709BFA82B6}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11.3_array_of_string", "array_of_string\array_of_string.vcxproj", "{99FEB0D8-B39C-4AED-8099-45709BFA82B6}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "various_input_method_of_string", "various_input_method_of_string\various_input_method_of_string.vcxproj", "{22AAC0E1-454D-4645-A74B-4F8AF40D3EF7}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11.4_various_input_method_of_string", "various_input_method_of_string\various_input_method_of_string.vcxproj", "{22AAC0E1-454D-4645-A74B-4F8AF40D3EF7}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "various_output_method_of_string", "various_output_method_of_string\various_output_method_of_string.vcxproj", "{B9EACEF2-4AAA-4A2C-9417-08CBD215C787}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11.5_various_output_method_of_string", "various_output_method_of_string\various_output_method_of_string.vcxproj", "{B9EACEF2-4AAA-4A2C-9417-08CBD215C787}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "various_string_functions", "various_string_functions\various_string_functions.vcxproj", "{69DF1671-D26D-4ACD-A8FE-93589E5A1212}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11.6_various_string_functions", "various_string_functions\various_string_functions.vcxproj", "{69DF1671-D26D-4ACD-A8FE-93589E5A1212}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "selection_sort", "selection_sort\selection_sort.vcxproj", "{465424AA-0B15-43BB-94A6-ED2AA4593906}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11.7_selection_sort", "selection_sort\selection_sort.vcxproj", "{465424AA-0B15-43BB-94A6-ED2AA4593906}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sort_pointer_of_strings", "sort_pointer_of_strings\sort_pointer_of_strings.vcxproj", "{2239DD25-3571-47C7-A98E-273F1238B480}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11.8_sort_pointer_of_strings", "sort_pointer_of_strings\sort_pointer_of_strings.vcxproj", "{2239DD25-3571-47C7-A98E-273F1238B480}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "using_ctype.h_in_string", "using_ctype.h_in_string\using_ctype.h_in_string.vcxproj", "{5FC3710C-973D-45C9-8B65-984C6CC524CA}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11.9_using_ctype.h_in_string", "using_ctype.h_in_string\using_ctype.h_in_string.vcxproj", "{5FC3710C-973D-45C9-8B65-984C6CC524CA}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "command-line_arguments", "command-line_arguments\command-line_arguments.vcxproj", "{0DD9037E-F571-4D38-B8EB-E22F277B3783}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11.10_command-line_arguments", "command-line_arguments\command-line_arguments.vcxproj", "{0DD9037E-F571-4D38-B8EB-E22F277B3783}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ways_to_change_strings_to_numbers", "ways_to_change_strings_to_numbers\ways_to_change_strings_to_numbers.vcxproj", "{2E854EAE-91A7-4135-B1D3-7B9AFBED3482}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11.11_ways_to_change_strings_to_numbers", "ways_to_change_strings_to_numbers\ways_to_change_strings_to_numbers.vcxproj", "{2E854EAE-91A7-4135-B1D3-7B9AFBED3482}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "object_and_identifier,_L-value_and_R-value", "object_and_identifier,_L-value_and_R-value\object_and_identifier,_L-value_and_R-value.vcxproj", "{BA3E9A25-130F-42FC-B4B6-79E57A422B16}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12.2_object_and_identifier,_L-value_and_R-value", "object_and_identifier,_L-value_and_R-value\object_and_identifier,_L-value_and_R-value.vcxproj", "{BA3E9A25-130F-42FC-B4B6-79E57A422B16}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "scope_of_variable_and_linkage_and_duration_of_object", "scope_of_variable_and_linkage_and_duration_of_object\scope_of_variable_and_linkage_and_duration_of_object.vcxproj", "{891EBD74-4300-4C3B-92CE-6BF06AF10925}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12.3_scope_of_variable_and_linkage_and_duration_of_object", "scope_of_variable_and_linkage_and_duration_of_object\scope_of_variable_and_linkage_and_duration_of_object.vcxproj", "{891EBD74-4300-4C3B-92CE-6BF06AF10925}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "automatic_variables", "automatic_variables\automatic_variables.vcxproj", "{94EFC5EF-F117-4BA1-B505-C1A67B45CA50}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12.5_automatic_variables", "automatic_variables\automatic_variables.vcxproj", "{94EFC5EF-F117-4BA1-B505-C1A67B45CA50}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "register_variables", "register_variables\register_variables.vcxproj", "{4CA28378-E694-4BB4-A497-2748FAD1B4C2}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12.6_register_variables", "register_variables\register_variables.vcxproj", "{4CA28378-E694-4BB4-A497-2748FAD1B4C2}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "static_variable_of_block_scope", "static_variable_of_block_scope\static_variable_of_block_scope.vcxproj", "{D63BA96F-A099-43A2-8A51-06C0FC534EC2}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12..7_static_variable_of_block_scope", "static_variable_of_block_scope\static_variable_of_block_scope.vcxproj", "{D63BA96F-A099-43A2-8A51-06C0FC534EC2}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "static_variables_with_external_linkage", "static_variables_with_external_linkage\static_variables_with_external_linkage.vcxproj", "{9B0DB5FC-A11D-4321-847B-26872F4DF177}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12.8_static_variables_with_external_linkage", "static_variables_with_external_linkage\static_variables_with_external_linkage.vcxproj", "{9B0DB5FC-A11D-4321-847B-26872F4DF177}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "static_variable_with_internal_linkage", "static_variable_with_internal_linkage\static_variable_with_internal_linkage.vcxproj", "{4770602D-8FCF-4FA8-84F6-DC935E2FEBD8}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12.9_static_variable_with_internal_linkage", "static_variable_with_internal_linkage\static_variable_with_internal_linkage.vcxproj", "{4770602D-8FCF-4FA8-84F6-DC935E2FEBD8}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "storage_classes_and_function", "storage_classes_and_function\storage_classes_and_function.vcxproj", "{D25FB881-B2C1-4C1B-9A74-0F9AB27CC33B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12.11_storage_classes_and_function", "storage_classes_and_function\storage_classes_and_function.vcxproj", "{D25FB881-B2C1-4C1B-9A74-0F9AB27CC33B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "make_random_number_generator_module", "make_random_number_generator_module\make_random_number_generator_module.vcxproj", "{12D3D1D0-F54C-4DBD-8DF8-555B27DB7C8F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12.12_make_random_number_generator_module", "make_random_number_generator_module\make_random_number_generator_module.vcxproj", "{12D3D1D0-F54C-4DBD-8DF8-555B27DB7C8F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dynamic_storage_allocation", "dynamic_storage_allocation\dynamic_storage_allocation.vcxproj", "{5E54CB52-7313-47C2-95FF-51694F08AED5}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12.13_dynamic_storage_allocation", "dynamic_storage_allocation\dynamic_storage_allocation.vcxproj", "{5E54CB52-7313-47C2-95FF-51694F08AED5}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "memory_leak_and_important_of_free()_and_diagnostic_tool", "memory_leak_and_important_of_free()_and_diagnostic_tool\memory_leak_and_important_of_free()_and_diagnostic_tool.vcxproj", "{36861AF8-BBBB-46FA-B0EB-3DADB4F26BE9}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12.14_memory_leak_and_important_of_free()_and_diagnostic_tool", "memory_leak_and_important_of_free()_and_diagnostic_tool\memory_leak_and_important_of_free()_and_diagnostic_tool.vcxproj", "{36861AF8-BBBB-46FA-B0EB-3DADB4F26BE9}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "use_dynamic_storage_allocation_like_array", "use_dynamic_storage_allocation_like_array\use_dynamic_storage_allocation_like_array.vcxproj", "{89D7D6B5-E845-4D71-B271-8CE0B24ED6B1}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12.15_use_dynamic_storage_allocation_like_array", "use_dynamic_storage_allocation_like_array\use_dynamic_storage_allocation_like_array.vcxproj", "{89D7D6B5-E845-4D71-B271-8CE0B24ED6B1}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "calloc()_and_realloc()", "calloc()_and_realloc()\calloc()_and_realloc().vcxproj", "{1387BF03-6C71-400C-A9F3-AA88116D541C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12.16_calloc()_and_realloc()", "calloc()_and_realloc()\calloc()_and_realloc().vcxproj", "{1387BF03-6C71-400C-A9F3-AA88116D541C}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "type_qualifiers", "type_qualifiers\type_qualifiers.vcxproj", "{9CCA8AE3-F5AC-480F-9527-CE62A31811D2}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12.18_type_qualifiers", "type_qualifiers\type_qualifiers.vcxproj", "{9CCA8AE3-F5AC-480F-9527-CE62A31811D2}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "multi-threading", "multi-threading\multi-threading.vcxproj", "{739B0439-B5E7-4046-9692-FA5626CA1DEB}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12.19_multi-threading", "multi-threading\multi-threading.vcxproj", "{739B0439-B5E7-4046-9692-FA5626CA1DEB}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "input_and_output_of_text_file", "input_and_output_of_text_file\input_and_output_of_text_file.vcxproj", "{29D73E69-F237-4F55-8E9D-557E77E0EA4B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13.2_input_and_output_of_text_file", "input_and_output_of_text_file\input_and_output_of_text_file.vcxproj", "{29D73E69-F237-4F55-8E9D-557E77E0EA4B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "text_encoding_and_cod_page", "text_encoding_and_cod_page\text_encoding_and_cod_page.vcxproj", "{650DA5AE-BD65-4CF7-BB10-533F7CB051A1}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13.3_text_encoding_and_cod_page", "text_encoding_and_cod_page\text_encoding_and_cod_page.vcxproj", "{650DA5AE-BD65-4CF7-BB10-533F7CB051A1}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "input_and_output_functions_of_text_files", "input_and_output_functions_of_text_files\input_and_output_functions_of_text_files.vcxproj", "{6BD7B80F-EC19-48CF-827C-778DCFF0C77C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13.4_input_and_output_functions_of_text_files", "input_and_output_functions_of_text_files\input_and_output_functions_of_text_files.vcxproj", "{6BD7B80F-EC19-48CF-827C-778DCFF0C77C}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "input_and_output_of_binary_file", "input_and_output_of_binary_file\input_and_output_of_binary_file.vcxproj", "{1D830BB4-010F-4F13-9F80-73746474F49B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13.5_input_and_output_of_binary_file", "input_and_output_of_binary_file\input_and_output_of_binary_file.vcxproj", "{1D830BB4-010F-4F13-9F80-73746474F49B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "file_random_access", "file_random_access\file_random_access.vcxproj", "{07EA28BE-E52C-4404-BAC9-ED094DA75B0B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13.6_file_random_access", "file_random_access\file_random_access.vcxproj", "{07EA28BE-E52C-4404-BAC9-ED094DA75B0B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "another_input_and_output_functions_(ungetc()_fflush()_setvbuf())", "another_input_and_output_functions_(ungetc()_fflush()_setvbuf())\another_input_and_output_functions_(ungetc()_fflush()_setvbuf()).vcxproj", "{17AA4CA2-2FC9-4103-B32C-DDFAF1778A3B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13.7_another_input_and_output_functions_(ungetc()_fflush()_setvbuf())", "another_input_and_output_functions_(ungetc()_fflush()_setvbuf())\another_input_and_output_functions_(ungetc()_fflush()_setvbuf()).vcxproj", "{17AA4CA2-2FC9-4103-B32C-DDFAF1778A3B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "read_text_file_like_binary_file", "read_text_file_like_binary_file\read_text_file_like_binary_file.vcxproj", "{FC13D1DD-B893-4CE7-AD4F-A5282A10E99C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13.8_read_text_file_like_binary_file", "read_text_file_like_binary_file\read_text_file_like_binary_file.vcxproj", "{FC13D1DD-B893-4CE7-AD4F-A5282A10E99C}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "basic_usage_of_structure", "basic_usage_of_structure\basic_usage_of_structure.vcxproj", "{42ED47D4-C9CD-4918-871C-8632887E474A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14.2_basic_usage_of_structure", "basic_usage_of_structure\basic_usage_of_structure.vcxproj", "{42ED47D4-C9CD-4918-871C-8632887E474A}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "memory_allocation_of_structure", "memory_allocation_of_structure\memory_allocation_of_structure.vcxproj", "{6FEB2163-7530-46AB-B29A-35BDEA88C429}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14.3_memory_allocation_of_structure", "memory_allocation_of_structure\memory_allocation_of_structure.vcxproj", "{6FEB2163-7530-46AB-B29A-35BDEA88C429}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "array_of_structure_example", "array_of_structure_example\array_of_structure_example.vcxproj", "{18B8ABF0-427F-4DDB-B1E4-9435A7330FC3}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14.4_array_of_structure_example", "array_of_structure_example\array_of_structure_example.vcxproj", "{18B8ABF0-427F-4DDB-B1E4-9435A7330FC3}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nested_structure", "nested_structure\nested_structure.vcxproj", "{B90BF411-0443-4400-8D2E-CCD91B2569DA}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14.5_nested_structure", "nested_structure\nested_structure.vcxproj", "{B90BF411-0443-4400-8D2E-CCD91B2569DA}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "structure_and_pointer", "structure_and_pointer\structure_and_pointer.vcxproj", "{E03CFAE2-275E-461E-A2FA-BC5463C9BBC9}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14.6_structure_and_pointer", "structure_and_pointer\structure_and_pointer.vcxproj", "{E03CFAE2-275E-461E-A2FA-BC5463C9BBC9}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "return_structure_to_function", "return_structure_to_function\return_structure_to_function.vcxproj", "{3DBFF0F0-BCCE-4F37-9C92-45A751F7433F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14.7_return_structure_to_function", "return_structure_to_function\return_structure_to_function.vcxproj", "{3DBFF0F0-BCCE-4F37-9C92-45A751F7433F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "structure_and_function_example", "structure_and_function_example\structure_and_function_example.vcxproj", "{14D55887-98AF-4093-9CCB-CA399B26E65E}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14.8_structure_and_function_example", "structure_and_function_example\structure_and_function_example.vcxproj", "{14D55887-98AF-4093-9CCB-CA399B26E65E}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "structure_and_function_example2", "structure_and_function_example2\structure_and_function_example2.vcxproj", "{2F89C552-ECDA-463B-A1B5-7C6882DDBA71}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14.8_structure_and_function_example2", "structure_and_function_example2\structure_and_function_example2.vcxproj", "{2F89C552-ECDA-463B-A1B5-7C6882DDBA71}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "structure_and_allocation_memory", "structure_and_allocation_memory\structure_and_allocation_memory.vcxproj", "{CF256ACC-F98A-4F5B-9890-11A5609713C2}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14.9_structure_and_allocation_memory", "structure_and_allocation_memory\structure_and_allocation_memory.vcxproj", "{CF256ACC-F98A-4F5B-9890-11A5609713C2}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "compound_literals", "compound_literals\compound_literals.vcxproj", "{03916167-9479-4975-A20A-5D69D91CAD52}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14.10_compound_literals", "compound_literals\compound_literals.vcxproj", "{03916167-9479-4975-A20A-5D69D91CAD52}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "flexible_array_members", "flexible_array_members\flexible_array_members.vcxproj", "{277B0CE9-3E5C-40C2-8EE0-D2CCA796E239}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14.11_flexible_array_members", "flexible_array_members\flexible_array_members.vcxproj", "{277B0CE9-3E5C-40C2-8EE0-D2CCA796E239}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "anonymous_structures", "anonymous_structures\anonymous_structures.vcxproj", "{A5F019CE-98A8-47E7-AD74-352F6280A334}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14.12_anonymous_structures", "anonymous_structures\anonymous_structures.vcxproj", "{A5F019CE-98A8-47E7-AD74-352F6280A334}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "function_that_take_array_of_structures", "function_that_take_array_of_structures\function_that_take_array_of_structures.vcxproj", "{645D9433-7C53-4454-83CE-5DA3D07FE031}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14.13_function_that_take_array_of_structures", "function_that_take_array_of_structures\function_that_take_array_of_structures.vcxproj", "{645D9433-7C53-4454-83CE-5DA3D07FE031}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "structure_file_input_and_output_example", "structure_file_input_and_output_example\structure_file_input_and_output_example.vcxproj", "{28EAA37B-6525-46D1-85BA-E01ED9E563BC}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14.14_structure_file_input_and_output_example", "structure_file_input_and_output_example\structure_file_input_and_output_example.vcxproj", "{28EAA37B-6525-46D1-85BA-E01ED9E563BC}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "structure_file_input_and_output_example2_binary", "structure_file_input_and_output_example2_binary\structure_file_input_and_output_example2_binary.vcxproj", "{0C32A446-96ED-449A-8A49-8253DF7BA1D0}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14.14_structure_file_input_and_output_example2_binary", "structure_file_input_and_output_example2_binary\structure_file_input_and_output_example2_binary.vcxproj", "{0C32A446-96ED-449A-8A49-8253DF7BA1D0}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "principle_of_union", "principle_of_union\principle_of_union.vcxproj", "{1C09F23B-F31A-44D4-8020-35F2363A444C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14.15_principle_of_union", "principle_of_union\principle_of_union.vcxproj", "{1C09F23B-F31A-44D4-8020-35F2363A444C}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "union_and_structure", "union_and_structure\union_and_structure.vcxproj", "{F0BB0130-62E4-439A-AAB2-B6873E45A2E7}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14.16_union_and_structure", "union_and_structure\union_and_structure.vcxproj", "{F0BB0130-62E4-439A-AAB2-B6873E45A2E7}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "anonymous_unions", "anonymous_unions\anonymous_unions.vcxproj", "{A157A0BC-6D18-4866-AD9B-BDFB274828CB}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14.17_anonymous_unions", "anonymous_unions\anonymous_unions.vcxproj", "{A157A0BC-6D18-4866-AD9B-BDFB274828CB}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "enumerated_types", "enumerated_types\enumerated_types.vcxproj", "{11448498-C53B-4126-8D2E-B179338B3759}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14.18_enumerated_types", "enumerated_types\enumerated_types.vcxproj", "{11448498-C53B-4126-8D2E-B179338B3759}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "enumerated_types_example", "enumerated_types_example\enumerated_types_example.vcxproj", "{5B41C34F-CE7C-4856-BB12-D8C547E67142}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14.19_enumerated_types_example", "enumerated_types_example\enumerated_types_example.vcxproj", "{5B41C34F-CE7C-4856-BB12-D8C547E67142}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "namespace", "namespace\namespace.vcxproj", "{A71D6F10-1992-44DB-A969-C9267FCAFF95}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14.20_namespace", "namespace\namespace.vcxproj", "{A71D6F10-1992-44DB-A969-C9267FCAFF95}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "usage_of_function_pointer", "usage_of_function_pointer\usage_of_function_pointer.vcxproj", "{E4729545-2ECA-446D-BAE5-FAF373015914}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14.22_usage_of_function_pointer", "usage_of_function_pointer\usage_of_function_pointer.vcxproj", "{E4729545-2ECA-446D-BAE5-FAF373015914}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "typedef", "typedef\typedef.vcxproj", "{2C7F7A14-F43C-461F-849B-1DA193484E1F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14.23_typedef", "typedef\typedef.vcxproj", "{2C7F7A14-F43C-461F-849B-1DA193484E1F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "typedef_2", "typedef_2\typedef_2.vcxproj", "{B9DC0B7E-A564-4818-B0F7-81183DDAF4F9}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14.23_typedef_2", "typedef_2\typedef_2.vcxproj", "{B9DC0B7E-A564-4818-B0F7-81183DDAF4F9}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "deciphering_complex_declarations", "deciphering_complex_declarations\deciphering_complex_declarations.vcxproj", "{B05C0AEC-D810-46FC-A75F-AB678FFCD55B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14.24_deciphering_complex_declarations", "deciphering_complex_declarations\deciphering_complex_declarations.vcxproj", "{B05C0AEC-D810-46FC-A75F-AB678FFCD55B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qsort()_function_pointer_example", "qsort()_function_pointer_example\qsort()_function_pointer_example.vcxproj", "{3A822CF9-D9F6-47E0-9DA7-441F11E1E245}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14.25_qsort()_function_pointer_example", "qsort()_function_pointer_example\qsort()_function_pointer_example.vcxproj", "{3A822CF9-D9F6-47E0-9DA7-441F11E1E245}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qsort()_function_pointer_example_2", "qsort()_function_pointer_example_2\qsort()_function_pointer_example_2.vcxproj", "{F8641D16-3171-4C09-9162-D0A2C3BEB885}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14.25_qsort()_function_pointer_example_2", "qsort()_function_pointer_example_2\qsort()_function_pointer_example_2.vcxproj", "{F8641D16-3171-4C09-9162-D0A2C3BEB885}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "array_of_function_pointer_example", "array_of_function_pointer_example\array_of_function_pointer_example.vcxproj", "{80E97592-A438-4E60-AD68-2C913E243815}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14.26_array_of_function_pointer_example", "array_of_function_pointer_example\array_of_function_pointer_example.vcxproj", "{80E97592-A438-4E60-AD68-2C913E243815}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "convert_binary_to_decimal", "convert_binary_to_decimal\convert_binary_to_decimal.vcxproj", "{3F84FE68-1FFF-4434-A7EC-028CA6849FB1}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "15.2_convert_binary_to_decimal", "convert_binary_to_decimal\convert_binary_to_decimal.vcxproj", "{3F84FE68-1FFF-4434-A7EC-028CA6849FB1}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "convert_decimal_to_binary_using_ampersand", "convert_decimal_to_binary_using_ampersand\convert_decimal_to_binary_using_ampersand.vcxproj", "{1751DBA1-9FC6-45E2-A4BA-215C7FD1D24F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "15.3_convert_decimal_to_binary_using_ampersand", "convert_decimal_to_binary_using_ampersand\convert_decimal_to_binary_using_ampersand.vcxproj", "{1751DBA1-9FC6-45E2-A4BA-215C7FD1D24F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "comfirm_bitwise_logical_operator", "comfirm_bitwise_logical_operator\comfirm_bitwise_logical_operator.vcxproj", "{102D6F15-2907-4576-B1AA-EE3AE46219EC}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "15.4_comfirm_bitwise_logical_operator", "comfirm_bitwise_logical_operator\comfirm_bitwise_logical_operator.vcxproj", "{102D6F15-2907-4576-B1AA-EE3AE46219EC}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "comfirm_2's_complement", "comfirm_2's_complement\comfirm_2's_complement.vcxproj", "{AF7D9EF5-585C-482D-9315-ECCAB6793A7C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "15.5_comfirm_2's_complement", "comfirm_2's_complement\comfirm_2's_complement.vcxproj", "{AF7D9EF5-585C-482D-9315-ECCAB6793A7C}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bitwise_shift_operators", "bitwise_shift_operators\bitwise_shift_operators.vcxproj", "{2D9CF093-3098-4B64-AEB9-908A0D3C4DF9}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "15.6_bitwise_shift_operators", "bitwise_shift_operators\bitwise_shift_operators.vcxproj", "{2D9CF093-3098-4B64-AEB9-908A0D3C4DF9}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "various_usage_of_bitwise_logical_operators", "various_usage_of_bitwise_logical_operators\various_usage_of_bitwise_logical_operators.vcxproj", "{A80EC7E5-0B3B-4378-99EA-8C44B428A50E}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "15.7_various_usage_of_bitwise_logical_operators", "various_usage_of_bitwise_logical_operators\various_usage_of_bitwise_logical_operators.vcxproj", "{A80EC7E5-0B3B-4378-99EA-8C44B428A50E}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RGBA_color_bit_mask_example", "RGBA_color_bit_mask_example\RGBA_color_bit_mask_example.vcxproj", "{DEEEE2C1-F782-421F-B146-D1CC957A2F16}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "15.8_RGBA_color_bit_mask_example", "RGBA_color_bit_mask_example\RGBA_color_bit_mask_example.vcxproj", "{DEEEE2C1-F782-421F-B146-D1CC957A2F16}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "usage_of_bit_field", "usage_of_bit_field\usage_of_bit_field.vcxproj", "{F0A73E46-80CF-44FD-9700-1EEB389996EE}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "15.10_usage_of_bit_field", "usage_of_bit_field\usage_of_bit_field.vcxproj", "{F0A73E46-80CF-44FD-9700-1EEB389996EE}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "padding_of_bit-field", "padding_of_bit-field\padding_of_bit-field.vcxproj", "{37DC5E1E-5F03-44F1-B165-072EF3300975}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "15.11_padding_of_bit-field", "padding_of_bit-field\padding_of_bit-field.vcxproj", "{37DC5E1E-5F03-44F1-B165-072EF3300975}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "alignof()_and_alignas()", "alignof()_and_alignas()\alignof()_and_alignas().vcxproj", "{619BBF8A-06B3-4DC1-A4D1-8CF110FCD576}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "15.12_alignof()_and_alignas()", "alignof()_and_alignas()\alignof()_and_alignas().vcxproj", "{619BBF8A-06B3-4DC1-A4D1-8CF110FCD576}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "translation_phases", "translation_phases\translation_phases.vcxproj", "{163B6493-A1EA-4D71-B237-5697641DEB9D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16.2_translation_phases", "translation_phases\translation_phases.vcxproj", "{163B6493-A1EA-4D71-B237-5697641DEB9D}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "define_macro", "define_macro\define_macro.vcxproj", "{DD344B45-6980-4BB3-8991-27EA916F8ED4}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16.3_define_macro", "define_macro\define_macro.vcxproj", "{DD344B45-6980-4BB3-8991-27EA916F8ED4}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "function-like_macros", "function-like_macros\function-like_macros.vcxproj", "{1808E089-A78E-4AA2-B21A-8BCF17594A59}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16.4_function-like_macros", "function-like_macros\function-like_macros.vcxproj", "{1808E089-A78E-4AA2-B21A-8BCF17594A59}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "function-like_macros_2", "function-like_macros_2\function-like_macros_2.vcxproj", "{CDF222AD-0894-410E-8148-B60347818059}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16.4_function-like_macros_2", "function-like_macros_2\function-like_macros_2.vcxproj", "{CDF222AD-0894-410E-8148-B60347818059}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "variadic_macros", "variadic_macros\variadic_macros.vcxproj", "{9EEA160B-FC24-4619-BB1B-8BE2CCB18264}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16.5_variadic_macros", "variadic_macros\variadic_macros.vcxproj", "{9EEA160B-FC24-4619-BB1B-8BE2CCB18264}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "include_and_header_file", "include_and_header_file\include_and_header_file.vcxproj", "{265CB716-58E5-4A8F-882A-256416F424D0}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16.6_include_and_header_file", "include_and_header_file\include_and_header_file.vcxproj", "{265CB716-58E5-4A8F-882A-256416F424D0}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "conditional_compliation", "conditional_compliation\conditional_compliation.vcxproj", "{CF242635-8F2A-4A90-8F1F-8E8E9EEAD9AB}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16.7_conditional_compliation", "conditional_compliation\conditional_compliation.vcxproj", "{CF242635-8F2A-4A90-8F1F-8E8E9EEAD9AB}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "conditional_compliation_2", "conditional_compliation_2\conditional_compliation_2.vcxproj", "{78FE4116-E45E-4A42-87A0-5DD97D8B351E}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16.7_conditional_compliation_2", "conditional_compliation_2\conditional_compliation_2.vcxproj", "{78FE4116-E45E-4A42-87A0-5DD97D8B351E}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "conditional_compliation_3", "conditional_compliation_3\conditional_compliation_3.vcxproj", "{D57FB442-5634-4C8F-8F2B-CC1485AC154B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16.7_conditional_compliation_3", "conditional_compliation_3\conditional_compliation_3.vcxproj", "{D57FB442-5634-4C8F-8F2B-CC1485AC154B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "conditional_compliation_4", "conditional_compliation_4\conditional_compliation_4.vcxproj", "{56E0EA8E-9A6B-47C9-9A79-E07D0043DB9E}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16.7_conditional_compliation_4", "conditional_compliation_4\conditional_compliation_4.vcxproj", "{56E0EA8E-9A6B-47C9-9A79-E07D0043DB9E}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "conditional_compliation_5", "conditional_compliation_5\conditional_compliation_5.vcxproj", "{60528993-D63B-40F1-82C4-358EB77FC01E}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16.7_conditional_compliation_5", "conditional_compliation_5\conditional_compliation_5.vcxproj", "{60528993-D63B-40F1-82C4-358EB77FC01E}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pre-defined_macros_and_line_and_error", "pre-defined_macros_and_line_and_error\pre-defined_macros_and_line_and_error.vcxproj", "{31C3E969-682F-4121-8C8E-3F2014D6C79E}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16.8_pre-defined_macros_and_line_and_error", "pre-defined_macros_and_line_and_error\pre-defined_macros_and_line_and_error.vcxproj", "{31C3E969-682F-4121-8C8E-3F2014D6C79E}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pragma_indicator", "pragma_indicator\pragma_indicator.vcxproj", "{9620F490-7386-4A1D-BA83-AD35E66FA3EC}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16.9_pragma_indicator", "pragma_indicator\pragma_indicator.vcxproj", "{9620F490-7386-4A1D-BA83-AD35E66FA3EC}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "'_Generic'_expression", "'_Generic'_expression\'_Generic'_expression.vcxproj", "{DE920F98-38B7-4659-80D1-E6D4573A6FA8}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16.10_'_Generic'_expression", "'_Generic'_expression\'_Generic'_expression.vcxproj", "{DE920F98-38B7-4659-80D1-E6D4573A6FA8}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "inline_function", "inline_function\inline_function.vcxproj", "{AE19E0E8-5010-4D7A-B36F-920C26091D9F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16.11_inline_function", "inline_function\inline_function.vcxproj", "{AE19E0E8-5010-4D7A-B36F-920C26091D9F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "inline_function_2", "inline_function_2\inline_function_2.vcxproj", "{90BE10D0-E998-4A1A-B0F2-F4F07D95D095}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16.11_inline_function_2", "inline_function_2\inline_function_2.vcxproj", "{90BE10D0-E998-4A1A-B0F2-F4F07D95D095}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "library", "library\library.vcxproj", "{5AF0A681-78E2-46A0-8C9D-E5FBE89E3BC6}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16.12_library", "library\library.vcxproj", "{5AF0A681-78E2-46A0-8C9D-E5FBE89E3BC6}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "library_2", "library_2\library_2.vcxproj", "{C0961E9D-6DE2-4CA4-9EBA-4C60D8DFE1AD}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16.12_library_2", "library_2\library_2.vcxproj", "{C0961E9D-6DE2-4CA4-9EBA-4C60D8DFE1AD}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "math.h", "math.h\math.h.vcxproj", "{AB33FA31-ED0A-456F-8071-72B2B47CB868}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16.13_math.h", "math.h\math.h.vcxproj", "{AB33FA31-ED0A-456F-8071-72B2B47CB868}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "stdlib.h", "stdlib.h\stdlib.h.vcxproj", "{7782B154-D144-4C75-BF6C-BE296F299631}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16.14_stdlib.h", "stdlib.h\stdlib.h.vcxproj", "{7782B154-D144-4C75-BF6C-BE296F299631}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "assert.h", "assert.h\assert.h.vcxproj", "{A6D38A1A-F68E-4491-9EAD-637A257214CC}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16.15_assert.h", "assert.h\assert.h.vcxproj", "{A6D38A1A-F68E-4491-9EAD-637A257214CC}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "memcpy()_and_memmove()", "memcpy()_and_memmove()\memcpy()_and_memmove().vcxproj", "{85EBBD4B-49CC-4357-B606-FC2B6C3230BA}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16.16_memcpy()_and_memmove()", "memcpy()_and_memmove()\memcpy()_and_memmove().vcxproj", "{85EBBD4B-49CC-4357-B606-FC2B6C3230BA}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "variable_arguments", "variable_arguments\variable_arguments.vcxproj", "{3CA8B842-C416-43FA-AC25-4D7B7C602359}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16.17_variable_arguments", "variable_arguments\variable_arguments.vcxproj", "{3CA8B842-C416-43FA-AC25-4D7B7C602359}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

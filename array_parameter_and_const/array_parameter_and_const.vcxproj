@@ -24,6 +24,7 @@
     <ProjectGuid>{8915b7a8-509d-4da8-9b56-888ae2f54d1c}</ProjectGuid>
     <RootNamespace>arrayparameterandconst</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>10.11_array_parameter_and_const</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

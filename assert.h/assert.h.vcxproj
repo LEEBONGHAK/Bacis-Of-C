@@ -24,6 +24,7 @@
     <ProjectGuid>{a6d38a1a-f68e-4491-9ead-637a257214cc}</ProjectGuid>
     <RootNamespace>asserth</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>16.15_assert.h</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

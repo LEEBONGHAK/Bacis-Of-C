@@ -24,6 +24,7 @@
     <ProjectGuid>{98a9fb98-fed3-4954-8253-9ee1268a96ce}</ProjectGuid>
     <RootNamespace>variablelengtharraysVLAs</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>10.17_variable-length_arrays_(VLAs)</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

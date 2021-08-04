@@ -24,6 +24,7 @@
     <ProjectGuid>{12d3d1d0-f54c-4dbd-8df8-555b27db7c8f}</ProjectGuid>
     <RootNamespace>makerandomnumbergeneratormodule</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>12.12_make_random_number_generator_module</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

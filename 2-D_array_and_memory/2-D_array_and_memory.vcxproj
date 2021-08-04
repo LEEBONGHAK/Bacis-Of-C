@@ -24,6 +24,7 @@
     <ProjectGuid>{217f1fab-e2fc-4f80-9ee9-90e49aa467d1}</ProjectGuid>
     <RootNamespace>My2Darrayandmemory</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>10.5_2-D_array_and_memory</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -24,6 +24,7 @@
     <ProjectGuid>{a5f019ce-98a8-47e7-ad74-352f6280a334}</ProjectGuid>
     <RootNamespace>anonymousstructures</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>14.12_anonymous_structures</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

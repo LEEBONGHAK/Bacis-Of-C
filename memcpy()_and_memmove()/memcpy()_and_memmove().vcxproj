@@ -24,6 +24,7 @@
     <ProjectGuid>{85ebbd4b-49cc-4357-b606-fc2b6c3230ba}</ProjectGuid>
     <RootNamespace>memcpyandmemmove</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>16.16_memcpy()_and_memmove()</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -24,6 +24,7 @@
     <ProjectGuid>{42f30bb1-503e-4885-bb72-e4644b5358d6}</ProjectGuid>
     <RootNamespace>getcharandputchar</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>7.2_getchar_and_putchar</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

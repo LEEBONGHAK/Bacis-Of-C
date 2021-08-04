@@ -24,6 +24,7 @@
     <ProjectGuid>{0c32a446-96ed-449a-8a49-8253df7ba1d0}</ProjectGuid>
     <RootNamespace>structurefileinputandoutputexample2binary</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>14.14_structure_file_input_and_output_example2_binary</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

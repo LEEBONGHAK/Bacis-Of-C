@@ -24,6 +24,7 @@
     <ProjectGuid>{22aac0e1-454d-4645-a74b-4f8af40d3ef7}</ProjectGuid>
     <RootNamespace>variousinputmethodofstring</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>11.4_various_input_method_of_string</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

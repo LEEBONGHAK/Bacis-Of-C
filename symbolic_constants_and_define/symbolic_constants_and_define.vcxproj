@@ -24,6 +24,7 @@
     <ProjectGuid>{96877bd2-1fee-447e-b5e5-1809d47c349f}</ProjectGuid>
     <RootNamespace>symbolicconstantsanddefine</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>4.5_symbolic_constants_and_define</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -24,6 +24,7 @@
     <ProjectGuid>{fa44eb5b-ad20-4ab5-85f9-ed9cee7da98a}</ProjectGuid>
     <RootNamespace>makingmenu</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>8.8_making_menu</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

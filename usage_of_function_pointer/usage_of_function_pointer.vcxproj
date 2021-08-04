@@ -24,6 +24,7 @@
     <ProjectGuid>{e4729545-2eca-446d-bae5-faf373015914}</ProjectGuid>
     <RootNamespace>usageoffunctionpointer</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>14.22_usage_of_function_pointer</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

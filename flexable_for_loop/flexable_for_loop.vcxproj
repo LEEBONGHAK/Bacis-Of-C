@@ -24,6 +24,7 @@
     <ProjectGuid>{95085668-39fc-4ea4-a9ed-6d4517f8986b}</ProjectGuid>
     <RootNamespace>flexableforloop</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>6.9_flexable_for_loop</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -24,6 +24,7 @@
     <ProjectGuid>{89d7d6b5-e845-4d71-b271-8ce0b24ed6b1}</ProjectGuid>
     <RootNamespace>usedynamicstorageallocationlikearray</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>12.15_use_dynamic_storage_allocation_like_array</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

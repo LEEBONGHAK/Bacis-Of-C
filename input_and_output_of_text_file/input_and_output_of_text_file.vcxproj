@@ -24,6 +24,7 @@
     <ProjectGuid>{29d73e69-f237-4f55-8e9d-557e77e0ea4b}</ProjectGuid>
     <RootNamespace>inputandoutputoftextfile</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>13.2_input_and_output_of_text_file</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -24,6 +24,7 @@
     <ProjectGuid>{465424aa-0b15-43bb-94a6-ed2aa4593906}</ProjectGuid>
     <RootNamespace>selectionsort</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>11.7_selection_sort</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

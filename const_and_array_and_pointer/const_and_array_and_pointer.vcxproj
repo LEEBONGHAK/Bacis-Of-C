@@ -24,6 +24,7 @@
     <ProjectGuid>{3f0dc079-63b6-4a1e-9b4c-933c8a659a43}</ProjectGuid>
     <RootNamespace>constandarrayandpointer</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>10.10_const_and_array_and_pointer</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

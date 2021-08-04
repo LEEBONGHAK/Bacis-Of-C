@@ -24,6 +24,7 @@
     <ProjectGuid>{102d6f15-2907-4576-b1aa-ee3ae46219ec}</ProjectGuid>
     <RootNamespace>comfirmbitwiselogicaloperator</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>15.4_comfirm_bitwise_logical_operator</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

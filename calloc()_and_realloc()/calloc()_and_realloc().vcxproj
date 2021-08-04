@@ -24,6 +24,7 @@
     <ProjectGuid>{1387bf03-6c71-400c-a9f3-aa88116d541c}</ProjectGuid>
     <RootNamespace>callocandrealloc</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>12.16_calloc()_and_realloc()</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

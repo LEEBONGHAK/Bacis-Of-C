@@ -24,6 +24,7 @@
     <ProjectGuid>{07ea28be-e52c-4404-bac9-ed094da75b0b}</ProjectGuid>
     <RootNamespace>filerandomaccess</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>13.6_file_random_access</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

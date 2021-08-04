@@ -24,6 +24,7 @@
     <ProjectGuid>{b9c298e1-fb98-450b-b507-42a99a667759}</ProjectGuid>
     <RootNamespace>redirectionofinputandoutput</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>8.3_redirection_of_input_and_output</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

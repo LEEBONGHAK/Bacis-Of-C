@@ -24,6 +24,7 @@
     <ProjectGuid>{18b8abf0-427f-4ddb-b1e4-9435a7330fc3}</ProjectGuid>
     <RootNamespace>arrayofstructureexample</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>14.4_array_of_structure_example</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

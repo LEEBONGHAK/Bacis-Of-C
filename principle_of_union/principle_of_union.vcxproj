@@ -24,6 +24,7 @@
     <ProjectGuid>{1c09f23b-f31a-44d4-8020-35f2363a444c}</ProjectGuid>
     <RootNamespace>principleofunion</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>14.15_principle_of_union</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -24,6 +24,7 @@
     <ProjectGuid>{1d3d5c55-b842-4db7-a69d-5d1565d710e3}</ProjectGuid>
     <RootNamespace>exitconditionloopdowhile</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>6.13_exit-condition_loop_do_while</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -24,6 +24,7 @@
     <ProjectGuid>{3a822cf9-d9f6-47e0-9da7-441f11e1e245}</ProjectGuid>
     <RootNamespace>qsortfunctionpointerexample</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>14.25_qsort()_function_pointer_example</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

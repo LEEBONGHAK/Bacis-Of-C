@@ -24,6 +24,7 @@
     <ProjectGuid>{56b43661-83bb-49ad-ac15-104f7ec12b8a}</ProjectGuid>
     <RootNamespace>makeheaderfile</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>9.11_make_header_file</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

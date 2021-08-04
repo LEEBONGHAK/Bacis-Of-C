@@ -24,6 +24,7 @@
     <ProjectGuid>{7c7c0932-a837-49b7-9099-7a8507afd3e5}</ProjectGuid>
     <RootNamespace>confirminput</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>8.6_confirm_input</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

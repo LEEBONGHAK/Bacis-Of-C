@@ -24,6 +24,7 @@
     <ProjectGuid>{7782b154-d144-4c75-bf6c-be296f299631}</ProjectGuid>
     <RootNamespace>stdlibh</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>16.14_stdlib.h</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

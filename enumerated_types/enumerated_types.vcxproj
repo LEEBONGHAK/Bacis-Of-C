@@ -24,6 +24,7 @@
     <ProjectGuid>{11448498-c53b-4126-8d2e-b179338b3759}</ProjectGuid>
     <RootNamespace>enumeratedtypes</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>14.18_enumerated_types</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
