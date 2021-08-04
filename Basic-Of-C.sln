@@ -368,6 +368,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "stdlib.h", "stdlib.h\stdlib
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "assert.h", "assert.h\assert.h.vcxproj", "{A6D38A1A-F68E-4491-9EAD-637A257214CC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "memcpy()_and_memmove()", "memcpy()_and_memmove()\memcpy()_and_memmove().vcxproj", "{85EBBD4B-49CC-4357-B606-FC2B6C3230BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1816,6 +1818,14 @@ Global
 		{A6D38A1A-F68E-4491-9EAD-637A257214CC}.Release|x64.Build.0 = Release|x64
 		{A6D38A1A-F68E-4491-9EAD-637A257214CC}.Release|x86.ActiveCfg = Release|Win32
 		{A6D38A1A-F68E-4491-9EAD-637A257214CC}.Release|x86.Build.0 = Release|Win32
+		{85EBBD4B-49CC-4357-B606-FC2B6C3230BA}.Debug|x64.ActiveCfg = Debug|x64
+		{85EBBD4B-49CC-4357-B606-FC2B6C3230BA}.Debug|x64.Build.0 = Debug|x64
+		{85EBBD4B-49CC-4357-B606-FC2B6C3230BA}.Debug|x86.ActiveCfg = Debug|Win32
+		{85EBBD4B-49CC-4357-B606-FC2B6C3230BA}.Debug|x86.Build.0 = Debug|Win32
+		{85EBBD4B-49CC-4357-B606-FC2B6C3230BA}.Release|x64.ActiveCfg = Release|x64
+		{85EBBD4B-49CC-4357-B606-FC2B6C3230BA}.Release|x64.Build.0 = Release|x64
+		{85EBBD4B-49CC-4357-B606-FC2B6C3230BA}.Release|x86.ActiveCfg = Release|Win32
+		{85EBBD4B-49CC-4357-B606-FC2B6C3230BA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
