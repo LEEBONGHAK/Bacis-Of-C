@@ -331,9 +331,9 @@ url : https://www.inflearn.com/course/following-c/dashboard
  - [x] 16.9 #pragma 지시자
  - [x] 16.10 _Generic 표현식
  - [x] 16.11 inline 함수
- - [ ] 16.12 라이브러리
- - [ ] 16.13 표준 수학 라이브러리
- - [ ] 16.14 표준 유틸리티 라이브러리
+ - [x] 16.12 라이브러리
+ - [x] 16.13 표준 수학 라이브러리
+ - [x] 16.14 표준 유틸리티 라이브러리
  - [ ] 16.15 assert 라이브러리
  - [ ] 16.16 memcpy()와 memmove()
  - [ ] 16.17 가변 인수
