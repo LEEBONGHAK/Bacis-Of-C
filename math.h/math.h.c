@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-#include <math.h>
+#include <math.h>		// standard math library
 //#include <tgmath.h>		// type generic macros
 
 // Generic Selection Expression - not allowed in VS
